@@ -1,0 +1,38 @@
+{
+  "sections": {
+    "breadcrumbs_Eqt34R": {
+      "type": "breadcrumbs",
+      "settings": {
+        "text_alignment": "start"
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "sort": "alphabetical",
+        "title": "Collections",
+        "heading_size": "h2",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "card_color_scheme": "",
+        "card_style": "standard",
+        "card_heading_size": "text-base",
+        "card_image_ratio": "1\/1",
+        "card_image_width": "large",
+        "rounded_card_image": true,
+        "card_show_border": false,
+        "columns_desktop": 6,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "grid_bordered": true,
+        "columns_mobile": "1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_Eqt34R",
+    "main"
+  ]
+}
