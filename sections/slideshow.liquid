@@ -192,6 +192,9 @@
               tabindex="-1"
             >
               <div class="slideshow__text rich-text text-{{ text_alignment_mobile }} md:text-{{ text_alignment }}">
+                {% if block.settings.custom_image != blank %}
+                  {{ block.settings.custom_image | image_url: width: 400 | image_tag: class: 'custom_image' }}
+                {% endif %}
                 {%- unless block.settings.subheading == blank -%}
                   <div class="slideshow__subtitle rich-text__subheading text-subheading">
                     <motion-element
@@ -500,6 +503,23 @@
               "label": "t:general.content_alignment.options__3.label"
             }
           ]
+        },
+        {
+          "type": "image_picker",
+          "id": "custom_image",
+          "label": "Custom Image"
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_text_shadow",
+          "label": "t:general.enable_text_shadow.label",
+          "default": false
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_text_outline",
+          "label": "t:general.enable_text_outline.label",
+          "default": false
         },
         {
           "type": "text",
