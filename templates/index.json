@@ -1,1 +1,803 @@
-{"sections":{"slideshow_q3U4Jn":{"type":"slideshow","blocks":{"slide_JhU8hg":{"type":"slide","settings":{"color_scheme":"scheme-9","background":"shopify:\/\/shop_images\/banner-viloc_Materiales_para_impresion1-min.png","image_overlay_opacity":0,"content_position":"middle-center","text_alignment":"center","subheading":"","title":"Materiales para impresión","heading_size":"hd1","description":"","description_size":"text-base","button_label":"Ver productos","button_link":"shopify:\/\/collections\/all","button_style":"btn--primary","enable_preload_image":false}},"slide_k3NKF6":{"type":"slide","settings":{"color_scheme":"scheme-9","background":"shopify:\/\/shop_images\/banner-viloc_Materiales_para_impresion2-min.png","image_overlay_opacity":0,"content_position":"middle-center","text_alignment":"center","subheading":"","title":"Materiales para impresión","heading_size":"hd1","description":"","description_size":"text-base","button_label":"Ver productos","button_link":"shopify:\/\/collections\/all","button_style":"btn--primary","enable_preload_image":false}}},"block_order":["slide_JhU8hg","slide_k3NKF6"],"settings":{"container":"full","slide_height":"adapt","show_controls":true,"autoplay":true,"autoplay_delay":7,"show_text_below":true,"text_alignment_mobile":"center","accessibility_info":""}},"scrolling_promotion_9Hng8m":{"type":"scrolling-promotion","blocks":{"text_m9JnRY":{"type":"text","settings":{"text_link":"","text":"Calidad + Precio","text_size":"h2","text_opacity":100,"use_custom_color":true,"custom_color":"#303030"}},"image_ypAQyf":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/img-servicio.png","image_height":112,"image_rounded":false,"image_link":"","image_height_mobile":60}},"text_gENJV7":{"type":"text","settings":{"text_link":"","text":"Servicio personalizado","text_size":"h2","text_opacity":100,"use_custom_color":true,"custom_color":"#303030"}},"image_KBetgG":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/img-gran_capacidad.png","image_height":112,"image_rounded":false,"image_link":"","image_height_mobile":60}},"text_ETiRz6":{"type":"text","settings":{"text_link":"","text":"Gran capacidad de almacenamiento","text_size":"h2","text_opacity":100,"use_custom_color":true,"custom_color":"#303030"}},"image_pmGhNr":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/img-calidad_precio.png","image_height":112,"image_rounded":false,"image_link":"","image_height_mobile":60}}},"block_order":["text_m9JnRY","image_ypAQyf","text_gENJV7","image_KBetgG","text_ETiRz6","image_pmGhNr"],"settings":{"color_scheme":"","direction":"left","pause_on_hover":true,"speed":0.3,"h_spacing":20,"show_section_divider":false,"padding_top":40,"padding_bottom":40}},"collection_tabs_VexkkR":{"type":"collection-tabs","blocks":{"collection_kXyTe3":{"type":"collection","settings":{"collection":"lonas","image":"shopify:\/\/shop_images\/img-categoria-lonas-min.png","title":"","text":"","button_label":"Ver productos","button_style":"btn--secondary"}},"collection_qxfNFe":{"type":"collection","settings":{"collection":"viniles","image":"shopify:\/\/shop_images\/img-categoria-viniles-min.png","title":"","text":"","button_label":"Ver productos","button_style":"btn--primary"}},"collection_j3wCpz":{"type":"collection","settings":{"collection":"canvas","image":"shopify:\/\/shop_images\/img-categoria-canvas-min.png","title":"","text":"","button_label":"Ver productos","button_style":"btn--primary"}},"collection_XBe9hq":{"type":"collection","settings":{"collection":"rigidos","image":"shopify:\/\/shop_images\/img-categoria-rigidos-min.png","title":"","text":"","button_label":"Ver productos","button_style":"btn--primary"}}},"block_order":["collection_kXyTe3","collection_qxfNFe","collection_j3wCpz","collection_XBe9hq"],"custom_css":["@media (min-width: 1024px) {collection-tabs {padding-inline: 5rem; }}"],"settings":{"container":"fixed","color_scheme":"scheme-info","heading":"Categorías \/ Productos","heading_size":"h5","image_position":"right","image_ratio":"adapt","collection_heading_size":"hd2","padding_top":80,"padding_bottom":80,"show_section_divider":false,"divider_width":"fixed"}},"favorite_products_6Tg9Pn":{"type":"favorite-products","blocks":{"product_AJ47ka":{"type":"product","settings":{"color_scheme":"scheme-inverse","product":"","image":"shopify:\/\/shop_images\/promocion-lona_brillante_y_mate-min.png","text":"<p>Aprovecha nuestra Lona Estándar Brillante y Mate con la mejor calidad y al mejor precio<\/p>","author":"Precio hasta agotar existencias. Aplican restricciones.","bio":""}},"product_wByADN":{"type":"product","settings":{"color_scheme":"scheme-inverse","product":"","image":"shopify:\/\/shop_images\/promocion-rollo-min.png","text":"<p>Precio especial en la compra por Rollo solo por este Mes<\/p>","author":"Aplican restricciones.","bio":""}}},"block_order":["product_AJ47ka","product_wByADN"],"custom_css":[".testimonial__content {max-width: 46rem;}"],"settings":{"color_scheme":"scheme-1","heading":"Promociones","heading_size":"h5","slide_height":"medium","pcard_image_ratio":"adapt","show_section_divider":false,"divider_width":"fixed"}},"custom_content_HPgFTK":{"type":"custom-content","blocks":{"image_card_with_product_qBJGcT":{"type":"image_card_with_product","settings":{"color_scheme":"scheme-9","image":"shopify:\/\/shop_images\/img-microperforados-Vinil-min.png","image_ratio":"3\/4","subheading":"","heading":"","heading_size":"h1","description":"","button_label":"Comprar","button_style":"btn--primary","product":"","width":"33%","alignment":"center","block_custom_class":""}},"image_card_with_product_jBpkrq":{"type":"image_card_with_product","settings":{"color_scheme":"scheme-9","image":"shopify:\/\/shop_images\/img_LONA_FRONTLIT-min.png","image_ratio":"3\/4","subheading":"","heading":"","heading_size":"h1","description":"","button_label":"Comprar","button_style":"btn--primary","product":"","width":"33%","alignment":"center","block_custom_class":""}},"image_card_with_product_tNUxAK":{"type":"image_card_with_product","settings":{"color_scheme":"scheme-9","image":"shopify:\/\/shop_images\/img-LONA-CANVAS-min.png","image_ratio":"3\/4","subheading":"","heading":"","heading_size":"h1","description":"","button_label":"Comprar","button_style":"btn--primary","product":"","width":"33%","alignment":"center","block_custom_class":""}}},"block_order":["image_card_with_product_qBJGcT","image_card_with_product_jBpkrq","image_card_with_product_tNUxAK"],"settings":{"container":"fixed","color_scheme":"","enable_sticky_column":false,"section_header_alignment":"left","section_header_alignment_mobile":"inherit","subheading":"","heading":"Lo más vendido","heading_size":"h1","description":"","text_size":"text-base","column_gap":"medium","row_gap":"large","swipe_on_mobile":true,"columns_mobile":"1","padding_top":40,"padding_bottom":0,"show_section_divider":false,"divider_width":"fixed"}},"image_with_text_aXhRxw":{"type":"image-with-text","blocks":{"badge_fQjMHW":{"type":"badge","settings":{"color_scheme":"scheme-10","text":"Materiales para impresión - Viloc -","image":"shopify:\/\/shop_images\/icono_viloc.png"}},"heading_jnb9cP":{"type":"heading","settings":{"heading":"Conoce un poco de nosotros","heading_size":"hd2"}},"text_4pYVYF":{"type":"text","settings":{"text":"<p>En VILOC somos una empresa mexicana dedicada a la comercialización y desarrollo de materiales para impresión digital, como viniles , lonas, rígidos y canvas .<br\/>Impulsamos la industria de la comunicación visual ofreciendo productos de alta calidad, disponibilidad constante y precios competitivos.<br\/><br\/>Gracias a una sólida infraestructura logística y a nuestros puntos de venta estratégicamente ubicados, garantizamos un servicio eficiente y confiable para negocios de impresión, publicidad y diseño en todo el país.<br\/><br\/>Creemos en relaciones a largo plazo con nuestros clientes, brindando asesoría personalizada y soluciones que se adaptan a sus proyectos y necesidades.<\/p>","subtext_color":false}},"button_aegkDr":{"type":"button","settings":{"button_label":"Escríbenos","button_link":"#","button_style":"btn--primary"}}},"block_order":["badge_fQjMHW","heading_jnb9cP","text_4pYVYF","button_aegkDr"],"custom_css":[".image-with-text__content {max-width: 45rem;}"],"settings":{"color_scheme":"","image":"shopify:\/\/shop_images\/img-conoce_un_poco_de_nosotros_Viloc-min.png","image_position":"left","image_width":50,"desktop_content_position":"center","desktop_content_alignment":"left","mobile_content_alignment":"inherit","show_section_divider":false,"divider_width":"fixed","padding_top":80,"padding_bottom":80}},"buttons_with_icon_c8CzHV":{"type":"buttons-with-icon","blocks":{"button_item_pPNmDa":{"type":"button_item","settings":{"button_label":"Calidad","button_link":"","icon":"check"}},"button_item_wdJEFH":{"type":"button_item","settings":{"button_label":"Stock","button_link":"","icon":"check"}},"button_item_gQBr77":{"type":"button_item","settings":{"button_label":"Atención","button_link":"","icon":"check"}},"button_item_nzdG7A":{"type":"button_item","settings":{"button_label":"Rapidez","button_link":"","icon":"check"}}},"block_order":["button_item_pPNmDa","button_item_wdJEFH","button_item_gQBr77","button_item_nzdG7A"],"custom_css":[".section__heading {max-width: 65rem;}"],"settings":{"color_scheme":"scheme-1","section_header_alignment":"center","section_header_alignment_mobile":"center","subheading":"","heading":"Destacamos por las ventajas de nuestros productos y servicios","heading_size":"h1","item_alignment":"center","item_button_style":"btn--secondary","enable_slider":false,"swipe_on_mobile":false,"show_section_divider":false,"divider_width":"full","padding_top":60,"padding_bottom":0}},"multicolumn_Ff4Wbj":{"type":"multicolumn","blocks":{"column_MikwAx":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/img-calidad_Viloc-min.png","title":"Calidad","heading_size":"h4","text":"<p>La calidad es parte esencial de nuestro compromiso. En VILOC contamos con el respaldo de proveedores certificados, un laboratorio interno especializado y un riguroso sistema de pruebas que nos permite asegurar la confiabilidad y el desempeño de cada uno de nuestros materiales.<\/p>","text_size":"text-base","button_label":"","button_style":"btn--underline","button_link":""}},"column_AVGxwj":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/img-stock_y_almacenamiento_Viloc-min.png","title":"Stock\/Almacenamiento","heading_size":"h4","text":"<p>Contamos stock suficiente y gran capacidad de almacenamiento para los materiales de nuestros clientes.<\/p>","text_size":"text-base","button_label":"","button_style":"btn--underline","button_link":""}},"column_3pKKqT":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/img-atencion_al_cliente_Viloc-min.png","title":"Atención personalizada","heading_size":"h4","text":"<p>Brindaremos en todo momento actitud de servicio empático con el objetivo de solucionar las necesidades de nuestros clientes.<\/p>","text_size":"text-base","button_label":"","button_style":"btn--underline","button_link":""}},"column_UCVMeK":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/img-rapidez_Viloc-min.png","title":"Rapidez","heading_size":"h4","text":"<p>Contamos con sistemas de tecnología y logística para levantar y surtir pedidos de manera eficaz.<\/p>","text_size":"text-base","button_label":"","button_style":"btn--underline","button_link":""}}},"block_order":["column_MikwAx","column_AVGxwj","column_3pKKqT","column_UCVMeK"],"settings":{"color_scheme":"scheme-info","section_header_alignment":"left","section_header_alignment_mobile":"inherit","subheading":"","heading":"","heading_size":"h1","description":"","text_size":"text-base","button_label":"","button_link":"","button_style":"btn--underline","content_alignment":"left","show_col_count":true,"columns_desktop":4,"column_gap":"medium","row_gap":"inherit","columns_mobile":"1","swipe_on_mobile":false,"show_section_divider":false,"divider_width":"fixed","padding_top":60,"padding_bottom":60}},"buttons_with_icon_3J6aqp":{"type":"buttons-with-icon","custom_css":[".section__heading {max-width: 90rem;}"],"settings":{"color_scheme":"scheme-1","section_header_alignment":"center","section_header_alignment_mobile":"center","subheading":"","heading":"Esta dedicación nos ha permitido ganarnos la confianza de nuestros clientes en la industria de la impresión digital.","heading_size":"h2","item_alignment":"center","item_button_style":"btn--secondary","enable_slider":false,"swipe_on_mobile":false,"show_section_divider":false,"divider_width":"full","padding_top":0,"padding_bottom":0}},"custom_content_JxRy7x":{"type":"custom-content","blocks":{"image_card_mL7WWJ":{"type":"image_card","settings":{"color_scheme":"scheme-1","image":"shopify:\/\/shop_images\/img-muestras_sin_costo.png","image_ratio":"adapt","image_overlay_opacity":0,"content_position":"split-middle-content","content_alignment":"left","content_spacing":"small","card_link":"#","subheading":"","heading":"Muestra sin costo","heading_size":"h3","description":"<p>Te ofrecemos muestras sin costo para que realices tus pruebas y compruebes la calidad que nos distingue.<\/p>","button_label":"Solicitar muestra","button_style":"btn--primary","show_badge":false,"badge_color_scheme":"scheme-3","badge_shape":"circle","badge_position":"top-right","badge_subtext":"Save","badge_text":"40%","color_scheme_mobile":"scheme-1","image_mobile":"shopify:\/\/shop_images\/img-muestras_sin_costo-movil-min.png","show_text_below":true,"content_alignment_mobile":"center","width":"50%","alignment":"center","block_custom_class":"","enable_preload_image":false}},"image_card_Vj69GM":{"type":"image_card","settings":{"color_scheme":"scheme-inverse","image":"shopify:\/\/shop_images\/img-servicio_de_entrega-min.png","image_ratio":"adapt","image_overlay_opacity":0,"content_position":"split-middle-content","content_alignment":"left","content_spacing":"small","card_link":"#","subheading":"","heading":"Servicio de entrega","heading_size":"h3","description":"<p>Realiza tus pedidos en línea y recógelos en nuestra tienda de León, Guanajuato.<\/p>","button_label":"Encuéntranos","button_style":"btn--secondary","show_badge":false,"badge_color_scheme":"scheme-8","badge_shape":"circle","badge_position":"top-right","badge_subtext":"Save","badge_text":"30%","color_scheme_mobile":"scheme-1","image_mobile":"shopify:\/\/shop_images\/img-servicio_de_entrega-movil-min.png","show_text_below":true,"content_alignment_mobile":"center","width":"50%","alignment":"center","block_custom_class":"","enable_preload_image":false}}},"block_order":["image_card_mL7WWJ","image_card_Vj69GM"],"custom_css":[".rich-text > * + *:is(.rich-text__text) {max-width: 50% !important;}"],"settings":{"container":"fixed","color_scheme":"","enable_sticky_column":false,"section_header_alignment":"left","section_header_alignment_mobile":"inherit","subheading":"","heading":"","heading_size":"h1","description":"","text_size":"text-base","column_gap":"small","row_gap":"extra-large","swipe_on_mobile":false,"columns_mobile":"1","padding_top":50,"padding_bottom":70,"show_section_divider":false,"divider_width":"fixed"}},"multicolumn_icon_mr9iee":{"type":"multicolumn-icon","blocks":{"column_FzDjJW":{"type":"column","settings":{"icon":"chat","image":"shopify:\/\/shop_images\/icono-atencion_al_cliente.png","max_width":40,"max_width_mb":28,"title":"Atención personalizada","heading_size":"h6","text":"<p>Expertos te ayudaran<\/p>","text_size":"text-base","button_label":"","button_style":"btn--underline","button_link":""}},"column_9EG3Dj":{"type":"column","settings":{"icon":"phone","image":"shopify:\/\/shop_images\/icono-envios.png","max_width":56,"max_width_mb":28,"title":"Envíos","heading_size":"h6","text":"<p>Rápidos y a tiempo<\/p>","text_size":"text-base","button_label":"","button_style":"btn--underline","button_link":""}},"column_8gwTwD":{"type":"column","settings":{"icon":"paperplane","image":"shopify:\/\/shop_images\/icono-garantia.png","max_width":56,"max_width_mb":28,"title":"Contamos con garantía","heading_size":"h6","text":"<p>Nuestra promesa para tí<\/p>","text_size":"text-base","button_label":"","button_style":"btn--underline","button_link":""}},"column_DEeqDA":{"type":"column","settings":{"icon":"map-pin","image":"shopify:\/\/shop_images\/icono-pago_seguro.png","max_width":50,"max_width_mb":28,"title":"Pago seguro","heading_size":"h6","text":"<p>Tus datos protegidos<\/p>","text_size":"text-base","button_label":"","button_style":"btn--underline","button_link":""}}},"block_order":["column_FzDjJW","column_9EG3Dj","column_8gwTwD","column_DEeqDA"],"settings":{"color_scheme":"scheme-8","section_header_alignment":"left","section_header_alignment_mobile":"inherit","subheading":"","heading":"","heading_size":"h1","description":"","text_size":"text-base","button_label":"","button_link":"","button_style":"btn--underline","card_color_scheme":"scheme-8","content_alignment":"left","image_position":"left","icon_color":"#FFFFFF","columns_desktop":4,"column_gap":"large","row_gap":"extra-large","show_divider_col":false,"columns_mobile":"2","swipe_on_mobile":false,"show_section_divider":false,"divider_width":"fixed","padding_top":28,"padding_bottom":28}}},"order":["slideshow_q3U4Jn","scrolling_promotion_9Hng8m","collection_tabs_VexkkR","favorite_products_6Tg9Pn","custom_content_HPgFTK","image_with_text_aXhRxw","buttons_with_icon_c8CzHV","multicolumn_Ff4Wbj","buttons_with_icon_3J6aqp","custom_content_JxRy7x","multicolumn_icon_mr9iee"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_q3U4Jn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JhU8hg": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-9",
+            "background": "shopify://shop_images/banner-viloc_Materiales_para_impresion1-min.png",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "custom_image": "shopify://shop_images/fav-viloc.png",
+            "enable_text_shadow": false,
+            "enable_text_outline": false,
+            "subheading": "",
+            "title": "Materiales para impresión",
+            "heading_size": "hd1",
+            "description": "",
+            "description_size": "text-base",
+            "button_label": "Ver productos",
+            "button_link": "shopify://collections/all",
+            "button_style": "btn--primary",
+            "enable_preload_image": false
+          }
+        },
+        "slide_k3NKF6": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "scheme-9",
+            "background": "shopify://shop_images/banner-viloc_Materiales_para_impresion2-min.png",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "enable_text_shadow": false,
+            "enable_text_outline": false,
+            "subheading": "",
+            "title": "Materiales para impresión",
+            "heading_size": "hd1",
+            "description": "",
+            "description_size": "text-base",
+            "button_label": "Ver productos",
+            "button_link": "shopify://collections/all",
+            "button_style": "btn--primary",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "slide_JhU8hg",
+        "slide_k3NKF6"
+      ],
+      "custom_css": [
+        ".custom_image {max-height: 80px; width: auto;}"
+      ],
+      "settings": {
+        "container": "full",
+        "slide_height": "adapt",
+        "show_controls": true,
+        "autoplay": true,
+        "autoplay_delay": 7,
+        "show_text_below": true,
+        "text_alignment_mobile": "center",
+        "accessibility_info": ""
+      }
+    },
+    "scrolling_promotion_9Hng8m": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_m9JnRY": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Calidad + Precio",
+            "text_size": "h2",
+            "text_opacity": 100,
+            "use_custom_color": true,
+            "custom_color": "#303030"
+          }
+        },
+        "image_ypAQyf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/img-servicio.png",
+            "image_height": 112,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 60
+          }
+        },
+        "text_gENJV7": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Servicio personalizado",
+            "text_size": "h2",
+            "text_opacity": 100,
+            "use_custom_color": true,
+            "custom_color": "#303030"
+          }
+        },
+        "image_KBetgG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/img-gran_capacidad.png",
+            "image_height": 112,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 60
+          }
+        },
+        "text_ETiRz6": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Gran capacidad de almacenamiento",
+            "text_size": "h2",
+            "text_opacity": 100,
+            "use_custom_color": true,
+            "custom_color": "#303030"
+          }
+        },
+        "image_pmGhNr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/img-calidad_precio.png",
+            "image_height": 112,
+            "image_rounded": false,
+            "image_link": "",
+            "image_height_mobile": 60
+          }
+        }
+      },
+      "block_order": [
+        "text_m9JnRY",
+        "image_ypAQyf",
+        "text_gENJV7",
+        "image_KBetgG",
+        "text_ETiRz6",
+        "image_pmGhNr"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.3,
+        "h_spacing": 20,
+        "show_section_divider": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "collection_tabs_VexkkR": {
+      "type": "collection-tabs",
+      "blocks": {
+        "collection_kXyTe3": {
+          "type": "collection",
+          "settings": {
+            "collection": "lonas",
+            "image": "shopify://shop_images/img-categoria-lonas-min.png",
+            "title": "",
+            "text": "",
+            "button_label": "Ver productos",
+            "button_style": "btn--secondary"
+          }
+        },
+        "collection_qxfNFe": {
+          "type": "collection",
+          "settings": {
+            "collection": "viniles",
+            "image": "shopify://shop_images/img-categoria-viniles-min.png",
+            "title": "",
+            "text": "",
+            "button_label": "Ver productos",
+            "button_style": "btn--primary"
+          }
+        },
+        "collection_j3wCpz": {
+          "type": "collection",
+          "settings": {
+            "collection": "canvas",
+            "image": "shopify://shop_images/img-categoria-canvas-min.png",
+            "title": "",
+            "text": "",
+            "button_label": "Ver productos",
+            "button_style": "btn--primary"
+          }
+        },
+        "collection_XBe9hq": {
+          "type": "collection",
+          "settings": {
+            "collection": "rigidos",
+            "image": "shopify://shop_images/img-categoria-rigidos-min.png",
+            "title": "",
+            "text": "",
+            "button_label": "Ver productos",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "collection_kXyTe3",
+        "collection_qxfNFe",
+        "collection_j3wCpz",
+        "collection_XBe9hq"
+      ],
+      "custom_css": [
+        "@media (min-width: 1024px) {collection-tabs {padding-inline: 5rem; }}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-info",
+        "heading": "Categorías / Productos",
+        "heading_size": "h5",
+        "image_position": "right",
+        "image_ratio": "adapt",
+        "collection_heading_size": "hd2",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "favorite_products_6Tg9Pn": {
+      "type": "favorite-products",
+      "blocks": {
+        "product_AJ47ka": {
+          "type": "product",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "product": "",
+            "image": "shopify://shop_images/promocion-lona_brillante_y_mate-min.png",
+            "text": "<p>Aprovecha nuestra Lona Estándar Brillante y Mate con la mejor calidad y al mejor precio</p>",
+            "author": "Precio hasta agotar existencias. Aplican restricciones.",
+            "bio": ""
+          }
+        },
+        "product_wByADN": {
+          "type": "product",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "product": "",
+            "image": "shopify://shop_images/promocion-rollo-min.png",
+            "text": "<p>Precio especial en la compra por Rollo solo por este Mes</p>",
+            "author": "Aplican restricciones.",
+            "bio": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_AJ47ka",
+        "product_wByADN"
+      ],
+      "custom_css": [
+        ".testimonial__content {max-width: 46rem;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "heading": "Promociones",
+        "heading_size": "h5",
+        "slide_height": "medium",
+        "pcard_image_ratio": "adapt",
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "custom_content_HPgFTK": {
+      "type": "custom-content",
+      "blocks": {
+        "image_card_with_product_qBJGcT": {
+          "type": "image_card_with_product",
+          "settings": {
+            "color_scheme": "scheme-9",
+            "image": "shopify://shop_images/img-microperforados-Vinil-min.png",
+            "image_ratio": "3/4",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h1",
+            "description": "",
+            "button_label": "Comprar",
+            "button_style": "btn--primary",
+            "product": "",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "image_card_with_product_jBpkrq": {
+          "type": "image_card_with_product",
+          "settings": {
+            "color_scheme": "scheme-9",
+            "image": "shopify://shop_images/img_LONA_FRONTLIT-min.png",
+            "image_ratio": "3/4",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h1",
+            "description": "",
+            "button_label": "Comprar",
+            "button_style": "btn--primary",
+            "product": "",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "image_card_with_product_tNUxAK": {
+          "type": "image_card_with_product",
+          "settings": {
+            "color_scheme": "scheme-9",
+            "image": "shopify://shop_images/img-LONA-CANVAS-min.png",
+            "image_ratio": "3/4",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h1",
+            "description": "",
+            "button_label": "Comprar",
+            "button_style": "btn--primary",
+            "product": "",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_card_with_product_qBJGcT",
+        "image_card_with_product_jBpkrq",
+        "image_card_with_product_tNUxAK"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "enable_sticky_column": false,
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Lo más vendido",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "column_gap": "medium",
+        "row_gap": "large",
+        "swipe_on_mobile": true,
+        "columns_mobile": "1",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "image_with_text_aXhRxw": {
+      "type": "image-with-text",
+      "blocks": {
+        "badge_fQjMHW": {
+          "type": "badge",
+          "settings": {
+            "color_scheme": "scheme-10",
+            "text": "Materiales para impresión - Viloc -",
+            "image": "shopify://shop_images/icono_viloc.png"
+          }
+        },
+        "heading_jnb9cP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Conoce un poco de nosotros",
+            "heading_size": "hd2"
+          }
+        },
+        "text_4pYVYF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En VILOC somos una empresa mexicana dedicada a la comercialización y desarrollo de materiales para impresión digital, como viniles , lonas, rígidos y canvas .<br/>Impulsamos la industria de la comunicación visual ofreciendo productos de alta calidad, disponibilidad constante y precios competitivos.<br/><br/>Gracias a una sólida infraestructura logística y a nuestros puntos de venta estratégicamente ubicados, garantizamos un servicio eficiente y confiable para negocios de impresión, publicidad y diseño en todo el país.<br/><br/>Creemos en relaciones a largo plazo con nuestros clientes, brindando asesoría personalizada y soluciones que se adaptan a sus proyectos y necesidades.</p>",
+            "subtext_color": false
+          }
+        },
+        "button_aegkDr": {
+          "type": "button",
+          "settings": {
+            "button_label": "Escríbenos",
+            "button_link": "#",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "badge_fQjMHW",
+        "heading_jnb9cP",
+        "text_4pYVYF",
+        "button_aegkDr"
+      ],
+      "custom_css": [
+        ".image-with-text__content {max-width: 45rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image": "shopify://shop_images/img-conoce_un_poco_de_nosotros_Viloc-min.png",
+        "image_position": "left",
+        "image_width": 50,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "buttons_with_icon_c8CzHV": {
+      "type": "buttons-with-icon",
+      "blocks": {
+        "button_item_pPNmDa": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Calidad",
+            "button_link": "",
+            "icon": "check"
+          }
+        },
+        "button_item_wdJEFH": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Stock",
+            "button_link": "",
+            "icon": "check"
+          }
+        },
+        "button_item_gQBr77": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Atención",
+            "button_link": "",
+            "icon": "check"
+          }
+        },
+        "button_item_nzdG7A": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Rapidez",
+            "button_link": "",
+            "icon": "check"
+          }
+        }
+      },
+      "block_order": [
+        "button_item_pPNmDa",
+        "button_item_wdJEFH",
+        "button_item_gQBr77",
+        "button_item_nzdG7A"
+      ],
+      "custom_css": [
+        ".section__heading {max-width: 65rem;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "center",
+        "subheading": "",
+        "heading": "Destacamos por las ventajas de nuestros productos y servicios",
+        "heading_size": "h1",
+        "item_alignment": "center",
+        "item_button_style": "btn--secondary",
+        "enable_slider": false,
+        "swipe_on_mobile": false,
+        "show_section_divider": false,
+        "divider_width": "full",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_Ff4Wbj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_MikwAx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/img-calidad_Viloc-min.png",
+            "title": "Calidad",
+            "heading_size": "h4",
+            "text": "<p>La calidad es parte esencial de nuestro compromiso. En VILOC contamos con el respaldo de proveedores certificados, un laboratorio interno especializado y un riguroso sistema de pruebas que nos permite asegurar la confiabilidad y el desempeño de cada uno de nuestros materiales.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": ""
+          }
+        },
+        "column_AVGxwj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/img-stock_y_almacenamiento_Viloc-min.png",
+            "title": "Stock/Almacenamiento",
+            "heading_size": "h4",
+            "text": "<p>Contamos stock suficiente y gran capacidad de almacenamiento para los materiales de nuestros clientes.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": ""
+          }
+        },
+        "column_3pKKqT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/img-atencion_al_cliente_Viloc-min.png",
+            "title": "Atención personalizada",
+            "heading_size": "h4",
+            "text": "<p>Brindaremos en todo momento actitud de servicio empático con el objetivo de solucionar las necesidades de nuestros clientes.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": ""
+          }
+        },
+        "column_UCVMeK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/img-rapidez_Viloc-min.png",
+            "title": "Rapidez",
+            "heading_size": "h4",
+            "text": "<p>Contamos con sistemas de tecnología y logística para levantar y surtir pedidos de manera eficaz.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_MikwAx",
+        "column_AVGxwj",
+        "column_3pKKqT",
+        "column_UCVMeK"
+      ],
+      "settings": {
+        "color_scheme": "scheme-info",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "content_alignment": "left",
+        "show_col_count": true,
+        "columns_desktop": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "buttons_with_icon_3J6aqp": {
+      "type": "buttons-with-icon",
+      "custom_css": [
+        ".section__heading {max-width: 90rem;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "center",
+        "subheading": "",
+        "heading": "Esta dedicación nos ha permitido ganarnos la confianza de nuestros clientes en la industria de la impresión digital.",
+        "heading_size": "h2",
+        "item_alignment": "center",
+        "item_button_style": "btn--secondary",
+        "enable_slider": false,
+        "swipe_on_mobile": false,
+        "show_section_divider": false,
+        "divider_width": "full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_content_JxRy7x": {
+      "type": "custom-content",
+      "blocks": {
+        "image_card_mL7WWJ": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "image": "shopify://shop_images/img-muestras_sin_costo.png",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "split-middle-content",
+            "content_alignment": "left",
+            "content_spacing": "small",
+            "card_link": "#",
+            "subheading": "",
+            "heading": "Muestra sin costo",
+            "heading_size": "h3",
+            "description": "<p>Te ofrecemos muestras sin costo para que realices tus pruebas y compruebes la calidad que nos distingue.</p>",
+            "button_label": "Solicitar muestra",
+            "button_style": "btn--primary",
+            "show_badge": false,
+            "badge_color_scheme": "scheme-3",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "40%",
+            "color_scheme_mobile": "scheme-1",
+            "image_mobile": "shopify://shop_images/img-muestras_sin_costo-movil-min.png",
+            "show_text_below": true,
+            "content_alignment_mobile": "center",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "",
+            "enable_preload_image": false
+          }
+        },
+        "image_card_Vj69GM": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "image": "shopify://shop_images/img-servicio_de_entrega-min.png",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "split-middle-content",
+            "content_alignment": "left",
+            "content_spacing": "small",
+            "card_link": "#",
+            "subheading": "",
+            "heading": "Servicio de entrega",
+            "heading_size": "h3",
+            "description": "<p>Realiza tus pedidos en línea y recógelos en nuestra tienda de León, Guanajuato.</p>",
+            "button_label": "Encuéntranos",
+            "button_style": "btn--secondary",
+            "show_badge": false,
+            "badge_color_scheme": "scheme-8",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "30%",
+            "color_scheme_mobile": "scheme-1",
+            "image_mobile": "shopify://shop_images/img-servicio_de_entrega-movil-min.png",
+            "show_text_below": true,
+            "content_alignment_mobile": "center",
+            "width": "50%",
+            "alignment": "center",
+            "block_custom_class": "",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_card_mL7WWJ",
+        "image_card_Vj69GM"
+      ],
+      "custom_css": [
+        ".rich-text > * + *:is(.rich-text__text) {max-width: 50% !important;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "enable_sticky_column": false,
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "column_gap": "small",
+        "row_gap": "extra-large",
+        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "padding_top": 50,
+        "padding_bottom": 70,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "multicolumn_icon_mr9iee": {
+      "type": "multicolumn-icon",
+      "blocks": {
+        "column_FzDjJW": {
+          "type": "column",
+          "settings": {
+            "icon": "chat",
+            "image": "shopify://shop_images/icono-atencion_al_cliente.png",
+            "max_width": 40,
+            "max_width_mb": 28,
+            "title": "Atención personalizada",
+            "heading_size": "h6",
+            "text": "<p>Expertos te ayudaran</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": ""
+          }
+        },
+        "column_9EG3Dj": {
+          "type": "column",
+          "settings": {
+            "icon": "phone",
+            "image": "shopify://shop_images/icono-envios.png",
+            "max_width": 56,
+            "max_width_mb": 28,
+            "title": "Envíos",
+            "heading_size": "h6",
+            "text": "<p>Rápidos y a tiempo</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": ""
+          }
+        },
+        "column_8gwTwD": {
+          "type": "column",
+          "settings": {
+            "icon": "paperplane",
+            "image": "shopify://shop_images/icono-garantia.png",
+            "max_width": 56,
+            "max_width_mb": 28,
+            "title": "Contamos con garantía",
+            "heading_size": "h6",
+            "text": "<p>Nuestra promesa para tí</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": ""
+          }
+        },
+        "column_DEeqDA": {
+          "type": "column",
+          "settings": {
+            "icon": "map-pin",
+            "image": "shopify://shop_images/icono-pago_seguro.png",
+            "max_width": 50,
+            "max_width_mb": 28,
+            "title": "Pago seguro",
+            "heading_size": "h6",
+            "text": "<p>Tus datos protegidos</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_style": "btn--underline",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_FzDjJW",
+        "column_9EG3Dj",
+        "column_8gwTwD",
+        "column_DEeqDA"
+      ],
+      "settings": {
+        "color_scheme": "scheme-8",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "card_color_scheme": "scheme-8",
+        "content_alignment": "left",
+        "image_position": "left",
+        "icon_color": "#ffffff",
+        "columns_desktop": 4,
+        "column_gap": "large",
+        "row_gap": "extra-large",
+        "show_divider_col": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "slideshow_q3U4Jn",
+    "scrolling_promotion_9Hng8m",
+    "collection_tabs_VexkkR",
+    "favorite_products_6Tg9Pn",
+    "custom_content_HPgFTK",
+    "image_with_text_aXhRxw",
+    "buttons_with_icon_c8CzHV",
+    "multicolumn_Ff4Wbj",
+    "buttons_with_icon_3J6aqp",
+    "custom_content_JxRy7x",
+    "multicolumn_icon_mr9iee"
+  ]
+}
