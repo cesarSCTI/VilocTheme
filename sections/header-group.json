@@ -74,7 +74,7 @@
           "type": "custom_link",
           "settings": {
             "label": "Puntosde venta",
-            "link": "",
+            "link": "shopify://pages/puntos-de-venta",
             "icon": "location",
             "icon_size": "large"
           }
