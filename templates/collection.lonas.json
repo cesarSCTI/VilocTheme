@@ -1,0 +1,186 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_Gxg9wp": {
+      "type": "breadcrumbs",
+      "custom_css": [
+        ".breadcrumbs--last {font-weight: bold;}",
+        ".breadcrumbs a {color: #cccbcb !important; font-weight: bold;}"
+      ],
+      "settings": {
+        "text_alignment": "start"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "blocks": {
+        "collection_info_zUNyKV": {
+          "type": "collection_info",
+          "settings": {
+            "heading_size": "h1",
+            "heading_tag": "h1",
+            "show_description": true,
+            "padding_top": 56,
+            "padding_bottom": 56
+          }
+        }
+      },
+      "block_order": [
+        "collection_info_zUNyKV"
+      ],
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "scheme-9",
+        "text_alignment": "center",
+        "show_collection_image": true,
+        "image_overlay_opacity": 0,
+        "image_position": "as-bg",
+        "image_height": "adapt",
+        "enable_parallax": false,
+        "parallax_direction": "horizontal",
+        "image_height_mobile": "auto",
+        "padding_top": 0,
+        "padding_bottom": 70
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "image_card_mwkyJy": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "image_position": 1,
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "split-bottom-button",
+            "content_alignment": "center",
+            "content_spacing": "medium",
+            "card_link": "",
+            "subheading": "Add a Tagline",
+            "heading": "Image card",
+            "heading_size": "h3",
+            "description": "",
+            "text_size": "text-base",
+            "button_label": "Button label",
+            "button_style": "btn--primary",
+            "order_first": false,
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_card_mwkyJy"
+      ],
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "products_per_page": 20,
+        "columns_desktop": 3,
+        "pagination": "infinite",
+        "enable_filtering": false,
+        "enable_color_swatch": false,
+        "filter_type": "vertical",
+        "expand_filter_groups": "Availability, Price, Color, Size, Category",
+        "enable_sorting": false,
+        "enable_layout_switching": false,
+        "columns_mobile": "1",
+        "padding_top": 30,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "scrolling_promotion_Fy9Yhn": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_gijz7Q": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Atención personalizada",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_3TVCPg": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Rápido y a tiempo",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_iD6689": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Contamos con garantía",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_CtJBtL": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Pago seguro",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_dGmg9m": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Calidad + precio",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "text_gijz7Q",
+        "text_3TVCPg",
+        "text_iD6689",
+        "text_CtJBtL",
+        "text_dGmg9m"
+      ],
+      "settings": {
+        "color_scheme": "scheme-8",
+        "direction": "left",
+        "pause_on_hover": false,
+        "speed": 0.5,
+        "h_spacing": 80,
+        "show_section_divider": false,
+        "padding_top": 22,
+        "padding_bottom": 22
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_Gxg9wp",
+    "banner",
+    "product-grid",
+    "scrolling_promotion_Fy9Yhn"
+  ]
+}
