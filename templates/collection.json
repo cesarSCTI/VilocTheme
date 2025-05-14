@@ -49,7 +49,7 @@
         "parallax_direction": "vertical",
         "image_height_mobile": "auto",
         "padding_top": 0,
-        "padding_bottom": 60
+        "padding_bottom": 70
       }
     },
     "collection_list_slider_6qbNfj": {
@@ -58,85 +58,33 @@
         "featured_collection_L9N3Tg": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
-            "title": ""
+            "collection": "lonas",
+            "image": "shopify://shop_images/coleccion-lonas-viloc.png",
+            "title": "Lonas"
           }
         },
         "featured_collection_gxdACj": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
-            "title": ""
+            "collection": "viniles",
+            "image": "shopify://shop_images/coleccion-viniles-viloc.png",
+            "title": "Viniles"
           }
         },
         "featured_collection_jQXtir": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
-            "title": ""
+            "collection": "canvas",
+            "image": "shopify://shop_images/coleccion-canvas-viloc.png",
+            "title": "Canvas"
           }
         },
         "featured_collection_4H9LzM": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_jMA9xm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_J6hxH9": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_HwzPfD": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_GW3kAL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_J6V8fx": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_NkFYeg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_eBphH3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_mFCdUY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
+            "collection": "rigidos",
+            "image": "shopify://shop_images/coleccion-rigidos-viloc.png",
+            "title": "Rígidos"
           }
         }
       },
@@ -144,26 +92,18 @@
         "featured_collection_L9N3Tg",
         "featured_collection_gxdACj",
         "featured_collection_jQXtir",
-        "featured_collection_4H9LzM",
-        "featured_collection_jMA9xm",
-        "featured_collection_J6hxH9",
-        "featured_collection_HwzPfD",
-        "featured_collection_GW3kAL",
-        "featured_collection_J6V8fx",
-        "featured_collection_NkFYeg",
-        "featured_collection_eBphH3",
-        "featured_collection_mFCdUY"
+        "featured_collection_4H9LzM"
       ],
       "custom_css": [],
       "settings": {
         "color_scheme": "",
-        "section_header_alignment": "center",
+        "section_header_alignment": "left",
         "section_header_alignment_mobile": "inherit",
         "subheading": "",
-        "heading": "",
-        "heading_size": "h1",
+        "heading": "Nuestras categorías",
+        "heading_size": "h3",
         "description": "",
-        "text_size": "text-base",
+        "text_size": "text-lg",
         "button_label": "",
         "button_link": "",
         "button_style": "btn--underline",
