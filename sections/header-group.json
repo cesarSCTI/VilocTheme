@@ -40,7 +40,6 @@
         },
         "social_links_BcFqP9": {
           "type": "social_links",
-          "disabled": true,
           "settings": {
             "show_facebook": true,
             "show_instagram": true,

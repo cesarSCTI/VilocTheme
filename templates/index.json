@@ -20,7 +20,7 @@
             "image_overlay_opacity": 0,
             "content_position": "middle-center",
             "text_alignment": "center",
-            "custom_image": "shopify://shop_images/fav-viloc.png",
+            "custom_image": "shopify://shop_images/logo_Viloc_Materiales_para_impresion.png",
             "enable_text_shadow": false,
             "enable_text_outline": false,
             "subheading": "",
@@ -42,6 +42,7 @@
             "image_overlay_opacity": 0,
             "content_position": "middle-center",
             "text_alignment": "center",
+            "custom_image": "shopify://shop_images/logo_Viloc_Materiales_para_impresion.png",
             "enable_text_shadow": false,
             "enable_text_outline": false,
             "subheading": "",
@@ -61,7 +62,7 @@
         "slide_k3NKF6"
       ],
       "custom_css": [
-        ".custom_image {max-height: 80px; width: auto;}"
+        ".custom_image {max-height: 120px; width: auto;}"
       ],
       "settings": {
         "container": "full",
