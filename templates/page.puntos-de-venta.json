@@ -63,8 +63,8 @@
             "description": "<p>Blvd. Antonio Madrazo #2018, Colonia Linares, CP: 37230,</p>",
             "top": 64,
             "left": 52,
-            "top_mobile": 45,
-            "left_mobile": 30
+            "top_mobile": 62,
+            "left_mobile": 53
           }
         },
         "hotspot_GWTDJa": {
@@ -75,8 +75,8 @@
             "description": "<h4>Guadalajara</h4>",
             "top": 67,
             "left": 46,
-            "top_mobile": 50,
-            "left_mobile": 70
+            "top_mobile": 62,
+            "left_mobile": 42
           }
         },
         "hotspot_FhgYQt": {
@@ -87,8 +87,8 @@
             "description": "<h4>San Luis Potosí</h4>",
             "top": 56,
             "left": 53,
-            "top_mobile": 62,
-            "left_mobile": 43
+            "top_mobile": 52,
+            "left_mobile": 58
           }
         },
         "hotspot_BGfTHn": {
@@ -99,8 +99,8 @@
             "description": "<h4>Querétaro</h4>",
             "top": 63,
             "left": 56,
-            "top_mobile": 9,
-            "left_mobile": 63
+            "top_mobile": 59,
+            "left_mobile": 60
           }
         },
         "hotspot_YVxM69": {
@@ -111,8 +111,8 @@
             "description": "<h4>Aguascalientes</h4>",
             "top": 58,
             "left": 49,
-            "top_mobile": 9,
-            "left_mobile": 63
+            "top_mobile": 55,
+            "left_mobile": 49
           }
         }
       },
@@ -138,6 +138,7 @@
         "button_link": "",
         "button_style": "btn--underline",
         "image": "shopify://shop_images/img-puntos_de_venta_Viloc-min.png",
+        "image_mobile": "shopify://shop_images/img-puntos_de_venta_Viloc-mobil-min.png",
         "icon_style": "dot",
         "icon_color": "light",
         "card_color_scheme": "",
