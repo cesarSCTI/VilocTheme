@@ -41,6 +41,7 @@
         "color_scheme": "scheme-9",
         "text_alignment": "center",
         "show_collection_image": true,
+        "image": "shopify://shop_images/banner-coleccion_lonas-min.png",
         "image_overlay_opacity": 0,
         "image_position": "as-bg",
         "image_height": "adapt",
