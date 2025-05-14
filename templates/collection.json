@@ -58,36 +58,42 @@
       "blocks": {
         "featured_collection_tWHNtL": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
-            "collection": "",
+            "collection": "promociones",
+            "image": "shopify://shop_images/coleccion-promociones-viloc.png",
             "title": ""
           }
         },
         "featured_collection_gMyRRP": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "lonas",
+            "image": "shopify://shop_images/coleccion-lonas-viloc.png",
             "title": ""
           }
         },
         "featured_collection_RVAABi": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "viniles",
+            "image": "shopify://shop_images/coleccion-viniles-viloc.png",
             "title": ""
           }
         },
         "featured_collection_4RpDtX": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "canvas",
+            "image": "shopify://shop_images/coleccion-canvas-viloc.png",
             "title": ""
           }
         },
         "featured_collection_f4B4hV": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "rigidos",
+            "image": "shopify://shop_images/coleccion-rigidos-viloc.png",
             "title": ""
           }
         }
