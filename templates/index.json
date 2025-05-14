@@ -595,7 +595,7 @@
         "image_card_mL7WWJ": {
           "type": "image_card",
           "settings": {
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-info",
             "image": "shopify://shop_images/img-muestras_sin_costo.png",
             "image_ratio": "adapt",
             "image_overlay_opacity": 0,

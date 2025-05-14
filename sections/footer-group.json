@@ -146,9 +146,9 @@
         "menu_DEKGYP": {
           "type": "menu",
           "settings": {
-            "block_width": 15,
+            "block_width": 12,
             "heading": "Mapa de sitio",
-            "menu": "main-menu",
+            "menu": "footer",
             "open_default": false,
             "show_divider": false
           }
@@ -156,7 +156,7 @@
         "menu_4eCrBB": {
           "type": "menu",
           "settings": {
-            "block_width": 15,
+            "block_width": 18,
             "heading": "Compra con nosotros",
             "menu": "customer-account-main-menu",
             "open_default": false,
