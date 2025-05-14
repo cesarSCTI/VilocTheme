@@ -93,7 +93,8 @@
         "hightlight_link_mgwVam"
       ],
       "custom_css": [
-        ".product-card__info {--pcard-info-gap: 1.2rem;}"
+        ".product-card__info {--pcard-info-gap: 1.2rem;}",
+        ".header .section--padding {box-shadow: 0px 1px 10px #12121236;}"
       ],
       "settings": {
         "container": "fixed",
