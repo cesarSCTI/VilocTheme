@@ -40,7 +40,7 @@
       "settings": {
         "color_scheme": "scheme-9",
         "text_alignment": "center",
-        "show_collection_image": false,
+        "show_collection_image": true,
         "image": "shopify://shop_images/banner-colecciones-viloc.png",
         "image_overlay_opacity": 0,
         "image_position": "as-bg",
