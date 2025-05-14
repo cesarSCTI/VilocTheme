@@ -45,12 +45,17 @@
         "price_BbVPd4": {
           "type": "price",
           "settings": {}
+        },
+        "variants_Ac8bPp": {
+          "type": "variants",
+          "settings": {}
         }
       },
       "block_order": [
         "info_BQEhkg",
         "description_HnwTqC",
-        "price_BbVPd4"
+        "price_BbVPd4",
+        "variants_Ac8bPp"
       ],
       "settings": {}
     },

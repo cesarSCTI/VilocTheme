@@ -70,59 +70,20 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "image_with_text_overlay_3FrkpM": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_MEEHjQ": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a Tagline"
-          }
-        },
-        "heading_W8mPfG": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "hd1"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_MEEHjQ",
-        "heading_W8mPfG"
-      ],
-      "custom_css": [
-        ".rich-text {max-width: 52rem;}"
-      ],
-      "settings": {
-        "container": "fixed",
-        "desktop_height": "adapt",
-        "overlay_opacity": 30,
-        "enable_parallax": false,
-        "parallax_direction": "vertical",
-        "color_scheme": "",
-        "content_position": "top-left",
-        "content_alignment": "left",
-        "mobile_height": "adapt",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "enable_preload_image": true
-      }
-    },
     "rich_text_kyFd96": {
       "type": "rich-text",
       "blocks": {
         "heading_Y9MMVQ": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "¿Quiénes somos?",
             "heading_size": "h2"
           }
         },
         "text_7h6LaE": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>En <strong>VILOC</strong> somos una empresa mexicana dedicada a la comercialización y desarrollo de materiales para impresión digital, como viniles , lonas, rígidos y canvas .<br/>Impulsamos la industria de la comunicación visual ofreciendo productos de alta calidad, disponibilidad constante y precios competitivos.</p><p><br/>Gracias a una sólida infraestructura logística y a nuestros puntos de venta estratégicamente ubicados, garantizamos un servicio eficiente y confiable para negocios de impresión, publicidad y diseño en todo el país.</p><p><br/>Creemos en relaciones a largo plazo con nuestros clientes, brindando asesoría personalizada y soluciones que se adaptan a sus proyectos y necesidades.</p>",
             "text_size": "text-base",
             "text_line_limit": "none"
           }
@@ -133,7 +94,7 @@
         "text_7h6LaE"
       ],
       "custom_css": [
-        ".rich-text {max-width: 78rem; margin: 0 auto;}",
+        ".rich-text {max-width: 120rem; margin: 0 auto;}",
         "@media (max-width: 1023px) {.rich-text__heading {max-width: 50rem; margin: 0 auto; }}"
       ],
       "settings": {
@@ -153,35 +114,21 @@
         "badge_AdmYNg": {
           "type": "badge",
           "settings": {
-            "color_scheme": "scheme-3",
-            "text": "image with text - spinning text -"
-          }
-        },
-        "subheading_t37PND": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a Tagline"
-          }
-        },
-        "heading_yrtiRH": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "hd2"
+            "color_scheme": "scheme-10",
+            "text": "Materiales para impresión - Viloc -",
+            "image": "shopify://shop_images/icono_viloc.png"
           }
         },
         "text_DycqGr": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "subtext_color": true
+            "text": "<h3>Misión</h3><p></p><p>Proveer a nuestros clientes de materiales que cumplan con las exigencias y expectativas del mercado de la impresión en el tiempo y forma deseados.</p><p></p><h3>Visión</h3><p></p><p>A lo largo de los años ser una empresa solida que respalde la industria gráfica con materiales y servicio de alta calidad integrando herramientas de tecnología y procesos innovadores que generen valor a nuestros clientes.</p><p></p><h3>Valores</h3><p></p><p>Solidaridad<br/>Empatía<br/>Servicio<br/>Profesionalismo<br/>Adaptabilidad<br/>Responsabilidad<br/>Puntualidad</p>",
+            "subtext_color": false
           }
         }
       },
       "block_order": [
         "badge_AdmYNg",
-        "subheading_t37PND",
-        "heading_yrtiRH",
         "text_DycqGr"
       ],
       "custom_css": [
@@ -189,6 +136,7 @@
       ],
       "settings": {
         "color_scheme": "",
+        "image": "shopify://shop_images/img-mision_vision_valores_Viloc-min.png",
         "image_position": "left",
         "image_width": 50,
         "desktop_content_position": "center",
@@ -197,420 +145,7 @@
         "show_section_divider": false,
         "divider_width": "fixed",
         "padding_top": 80,
-        "padding_bottom": 0
-      }
-    },
-    "buttons_with_icon_AgEzEN": {
-      "type": "buttons-with-icon",
-      "blocks": {
-        "button_item_idYGpT": {
-          "type": "button_item",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "icon": "check"
-          }
-        },
-        "button_item_ntPFqd": {
-          "type": "button_item",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "icon": "check"
-          }
-        },
-        "button_item_LbMPmN": {
-          "type": "button_item",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "icon": "check"
-          }
-        },
-        "button_item_fXwhKK": {
-          "type": "button_item",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "icon": "check"
-          }
-        }
-      },
-      "block_order": [
-        "button_item_idYGpT",
-        "button_item_ntPFqd",
-        "button_item_LbMPmN",
-        "button_item_fXwhKK"
-      ],
-      "custom_css": [
-        ".section__heading {max-width: 45rem;}"
-      ],
-      "settings": {
-        "color_scheme": "scheme-9",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
-        "subheading": "",
-        "heading": "Buttons with icon",
-        "heading_size": "h2",
-        "item_alignment": "center",
-        "item_button_style": "btn--primary",
-        "enable_slider": true,
-        "swipe_on_mobile": true,
-        "show_section_divider": false,
-        "divider_width": "fixed",
-        "padding_top": 80,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_36XTkC": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_pa39WP": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": ""
-          }
-        },
-        "column_DxCXpt": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": ""
-          }
-        },
-        "column_6r9KgV": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": ""
-          }
-        },
-        "column_nAdktf": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_pa39WP",
-        "column_DxCXpt",
-        "column_6r9KgV",
-        "column_nAdktf"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "section_header_alignment": "left",
-        "section_header_alignment_mobile": "inherit",
-        "subheading": "",
-        "heading": "",
-        "heading_size": "h1",
-        "description": "",
-        "text_size": "text-base",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "btn--underline",
-        "content_alignment": "left",
-        "show_col_count": true,
-        "columns_desktop": 4,
-        "column_gap": "medium",
-        "row_gap": "inherit",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "show_section_divider": false,
-        "divider_width": "fixed",
-        "padding_top": 60,
-        "padding_bottom": 80
-      }
-    },
-    "testimonials_M9PCcH": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_QWU6zQ": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "text": "<p>“Add customer reviews and testimonials to showcase your store’s happy customers.”</p>",
-            "author": "Jenny Wilson",
-            "bio": "CEO Garage",
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_QWU6zQ"
-      ],
-      "custom_css": [
-        ".testimonial__content {max-width: 64rem; margin-left: auto; margin-right: auto;}"
-      ],
-      "settings": {
-        "container": "full",
-        "color_scheme": "scheme-3",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
-        "subheading": "",
-        "heading": "",
-        "heading_size": "h1",
-        "description": "",
-        "text_size": "text-base",
-        "layout": "focused",
-        "card_color_scheme": "scheme-3",
-        "card_image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_gap": "extra-large",
-        "row_gap": "medium",
-        "enable_slider": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 80,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
-    "scrolling_promotion_6aUqmj": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "text_EWeYdP": {
-          "type": "text",
-          "settings": {
-            "text_link": "",
-            "text": "Welcome to our store",
-            "text_size": "hd2",
-            "text_opacity": 100,
-            "use_custom_color": true,
-            "custom_color": "#1d349a"
-          }
-        },
-        "image_WzBbmD": {
-          "type": "image",
-          "settings": {
-            "image_height": 100,
-            "image_rounded": false,
-            "image_link": "",
-            "image_height_mobile": 60
-          }
-        },
-        "text_baGGeL": {
-          "type": "text",
-          "settings": {
-            "text_link": "",
-            "text": "Welcome to our store",
-            "text_size": "hd2",
-            "text_opacity": 100,
-            "use_custom_color": true,
-            "custom_color": "#1d349a"
-          }
-        },
-        "image_Ta48hW": {
-          "type": "image",
-          "settings": {
-            "image_height": 100,
-            "image_rounded": false,
-            "image_link": "",
-            "image_height_mobile": 60
-          }
-        },
-        "text_y3QPgp": {
-          "type": "text",
-          "settings": {
-            "text_link": "",
-            "text": "Welcome to our store",
-            "text_size": "hd2",
-            "text_opacity": 100,
-            "use_custom_color": true,
-            "custom_color": "#1d349a"
-          }
-        },
-        "image_TFNFGJ": {
-          "type": "image",
-          "settings": {
-            "image_height": 100,
-            "image_rounded": false,
-            "image_link": "",
-            "image_height_mobile": 60
-          }
-        }
-      },
-      "block_order": [
-        "text_EWeYdP",
-        "image_WzBbmD",
-        "text_baGGeL",
-        "image_Ta48hW",
-        "text_y3QPgp",
-        "image_TFNFGJ"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "direction": "left",
-        "pause_on_hover": true,
-        "speed": 0.3,
-        "h_spacing": 20,
-        "show_section_divider": false,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "image_with_text_DCXDtE": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_UMGpf8": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Add a Tagline"
-          }
-        },
-        "heading_BjfQbV": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "hd2"
-          }
-        },
-        "text_6eMjft": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "subtext_color": true
-          }
-        },
-        "button_N7rQr3": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style": "btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_UMGpf8",
-        "heading_BjfQbV",
-        "text_6eMjft",
-        "button_N7rQr3"
-      ],
-      "custom_css": [
-        ".image-with-text__content {max-width: 52rem;}"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "image_position": "right",
-        "image_width": 50,
-        "desktop_content_position": "center",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "inherit",
-        "show_section_divider": true,
-        "divider_width": "full",
-        "padding_top": 80,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn_NVWxEe": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_gnmDqV": {
-          "type": "column",
-          "settings": {
-            "title": "Nicootitto",
-            "heading_size": "h4",
-            "text": "<p>Founder/CEO</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": ""
-          }
-        },
-        "column_Lkgb3Y": {
-          "type": "column",
-          "settings": {
-            "title": "Jake Nakos",
-            "heading_size": "h4",
-            "text": "<p>Designer</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": ""
-          }
-        },
-        "column_BDXeji": {
-          "type": "column",
-          "settings": {
-            "title": "Diana Simun",
-            "heading_size": "h4",
-            "text": "<p>Designer</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": ""
-          }
-        },
-        "column_yqztdq": {
-          "type": "column",
-          "settings": {
-            "title": "Quaid Lagan",
-            "heading_size": "h4",
-            "text": "<p>Marketer</p>",
-            "text_size": "text-base",
-            "button_label": "",
-            "button_style": "btn--underline",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_gnmDqV",
-        "column_Lkgb3Y",
-        "column_BDXeji",
-        "column_yqztdq"
-      ],
-      "custom_css": [
-        ".rich-text--tight {--text-margin-top: 0.8rem;}"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
-        "subheading": "",
-        "heading": "Meet Our Team",
-        "heading_size": "h2",
-        "description": "",
-        "text_size": "text-base",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "btn--underline",
-        "content_alignment": "left",
-        "show_col_count": false,
-        "columns_desktop": 4,
-        "column_gap": "medium",
-        "row_gap": "large",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "show_section_divider": false,
-        "divider_width": "fixed",
-        "padding_top": 80,
-        "padding_bottom": 80
+        "padding_bottom": 120
       }
     },
     "collapsible_tabs_MyaBhj": {
@@ -619,21 +154,22 @@
         "image_card_7YixwV": {
           "type": "image_card",
           "settings": {
-            "color_scheme": "scheme-inverse",
+            "color_scheme": "scheme-9",
             "desktop_image_position": "left",
             "image_width": 40,
             "alignment": "center",
+            "image": "shopify://shop_images/banner-faq_contacto-min.png",
             "image_ratio": "adapt",
-            "image_overlay_opacity": 36,
+            "image_overlay_opacity": 0,
             "content_position": "top-center",
             "content_alignment": "center",
             "content_spacing": "medium",
-            "card_link": "",
+            "card_link": "shopify://pages/contact",
             "subheading": "",
-            "heading": "Image card",
+            "heading": "¿Aún tienes dudas?",
             "heading_size": "h2",
-            "description": "",
-            "button_label": "Button label",
+            "description": "<p>Escríbenos o llámanos y con gusto te atenderemos</p>",
+            "button_label": "Contacto",
             "button_style": "btn--primary",
             "order_first": true
           }
@@ -642,7 +178,7 @@
           "type": "heading",
           "settings": {
             "sub_heading": "",
-            "heading": "Collapsible tabs",
+            "heading": "Preguntas frecuentes",
             "heading_size": "h1"
           }
         },
@@ -654,7 +190,7 @@
             "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
             "custom_liquid": "",
             "page": "",
-            "open": true,
+            "open": false,
             "use_subtext_color": false
           }
         },
@@ -708,7 +244,7 @@
       ],
       "settings": {
         "container": "fixed",
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-8",
         "header_layout": "vertical",
         "section_header_alignment": "left",
         "section_header_alignment_mobile": "inherit",
@@ -723,7 +259,7 @@
         "column_gap": "extra-large",
         "row_gap": "inherit",
         "item_style": "standard",
-        "item_color_scheme": "",
+        "item_color_scheme": "scheme-8",
         "item_heading_font": "heading",
         "item_heading_size": "h4",
         "item_icon_size": "extra-large",
@@ -775,6 +311,7 @@
         "text_7ey73V",
         "text_YfQcC9"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-3",
         "direction": "left",
@@ -791,15 +328,8 @@
     "breadcrumbs_DgnWDV",
     "main",
     "slideshow_T3wmJY",
-    "image_with_text_overlay_3FrkpM",
     "rich_text_kyFd96",
     "image_with_text_eUKGwj",
-    "buttons_with_icon_AgEzEN",
-    "multicolumn_36XTkC",
-    "testimonials_M9PCcH",
-    "scrolling_promotion_6aUqmj",
-    "image_with_text_DCXDtE",
-    "multicolumn_NVWxEe",
     "collapsible_tabs_MyaBhj",
     "scrolling_promotion_Grht8x"
   ]
