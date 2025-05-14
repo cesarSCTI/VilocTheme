@@ -105,6 +105,9 @@
         "featured_collection_4RpDtX",
         "featured_collection_f4B4hV"
       ],
+      "custom_css": [
+        ".collection-card--style-standard .collection-card__title {font-weight: bold !important;}"
+      ],
       "name": "t:sections.collection-list.name",
       "settings": {
         "color_scheme": "",
