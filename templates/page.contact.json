@@ -1,13 +1,65 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "slideshow_yxc48a": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_rEn9bC": {
+          "type": "slide",
+          "settings": {
+            "color_scheme": "",
+            "background": "shopify://shop_images/banner-contacto_Viloc-min.png",
+            "image_overlay_opacity": 0,
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "custom_image": "shopify://shop_images/logo_Viloc_Materiales_para_impresion.png",
+            "enable_text_shadow": false,
+            "enable_text_outline": false,
+            "subheading": "",
+            "title": "Image slide",
+            "heading_size": "hd1",
+            "description": "<p>Tell your brand's story through images</p>",
+            "description_size": "text-base",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "slide_rEn9bC"
+      ],
+      "name": "t:sections.slideshow.name",
+      "settings": {
+        "container": "full",
+        "slide_height": "large",
+        "show_controls": true,
+        "autoplay": false,
+        "autoplay_delay": 3,
+        "show_text_below": false,
+        "text_alignment_mobile": "center",
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "breadcrumbs_xYaBHj": {
       "type": "breadcrumbs",
+      "disabled": true,
       "settings": {
         "text_alignment": "start"
       }
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
         ".rich-text {max-width: 67rem;}"
       ],
@@ -33,21 +85,21 @@
             "icon_color_1": "#1d349a",
             "icon_heading_1": "Address",
             "icon_heading_size_1": "h5",
-            "icon_text_1": "<p>Street address, City, Country<\/p>",
+            "icon_text_1": "<p>Street address, City, Country</p>",
             "icon_vertical_alignment_1": "start",
             "icon_2": "phone",
             "icon_width_2": 28,
             "icon_color_2": "#1d349a",
             "icon_heading_2": "Call Us",
             "icon_heading_size_2": "h5",
-            "icon_text_2": "<p>+1 888-234-1234 (tool-free)<\/p>",
+            "icon_text_2": "<p>+1 888-234-1234 (tool-free)</p>",
             "icon_vertical_alignment_2": "start",
             "icon_3": "clock",
             "icon_width_3": 28,
             "icon_color_3": "#1d349a",
             "icon_heading_3": "Working Hour",
             "icon_heading_size_3": "h5",
-            "icon_text_3": "<p>Mon – Fri, 7:30 AM – 4:00 PM PT\u2028<br\/>Sat, 8:00 AM – 1:00 PM PT\u2028<br\/>Sun, Closed<\/p>",
+            "icon_text_3": "<p>Mon – Fri, 7:30 AM – 4:00 PM PT <br/>Sat, 8:00 AM – 1:00 PM PT <br/>Sun, Closed</p>",
             "icon_vertical_alignment_3": "start",
             "button_label": "Button label",
             "button_link": "",
@@ -105,73 +157,20 @@
       ],
       "custom_css": [],
       "settings": {
-        "section_color_scheme": "",
+        "section_color_scheme": "scheme-1",
         "heading": "",
-        "heading_size": "hd2",
+        "heading_size": "h2",
         "padding_top": 0,
         "padding_bottom": 80,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
-    },
-    "scrolling_promotion_FENznd": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "text_WMkP9C": {
-          "type": "text",
-          "settings": {
-            "text_link": "",
-            "text": "Welcome to our store",
-            "text_size": "h4",
-            "text_opacity": 100,
-            "use_custom_color": false,
-            "custom_color": "#000000"
-          }
-        },
-        "text_xQVNP8": {
-          "type": "text",
-          "settings": {
-            "text_link": "",
-            "text": "Welcome to our store",
-            "text_size": "h4",
-            "text_opacity": 100,
-            "use_custom_color": false,
-            "custom_color": "#000000"
-          }
-        },
-        "text_fcVApn": {
-          "type": "text",
-          "settings": {
-            "text_link": "",
-            "text": "Welcome to our store",
-            "text_size": "h4",
-            "text_opacity": 100,
-            "use_custom_color": false,
-            "custom_color": "#000000"
-          }
-        }
-      },
-      "block_order": [
-        "text_WMkP9C",
-        "text_xQVNP8",
-        "text_fcVApn"
-      ],
-      "settings": {
-        "color_scheme": "scheme-3",
-        "direction": "left",
-        "pause_on_hover": true,
-        "speed": 0.3,
-        "h_spacing": 80,
-        "show_section_divider": false,
-        "padding_top": 22,
-        "padding_bottom": 22
-      }
     }
   },
   "order": [
+    "slideshow_yxc48a",
     "breadcrumbs_xYaBHj",
     "main",
-    "form",
-    "scrolling_promotion_FENznd"
+    "form"
   ]
 }
