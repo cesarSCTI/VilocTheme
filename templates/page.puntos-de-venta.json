@@ -70,10 +70,11 @@
         "hotspot_GWTDJa": {
           "type": "hotspot",
           "settings": {
-            "heading": "Hotspot",
-            "description": "<p>Each piece is built for longevity, ensuring durability, repairability, flexibility, and resale value.</p>",
-            "top": 50,
-            "left": 70,
+            "image": "shopify://shop_images/icono_viloc.png",
+            "heading": "",
+            "description": "<h4>Guadalajara</h4>",
+            "top": 67,
+            "left": 46,
             "top_mobile": 50,
             "left_mobile": 70
           }
@@ -81,19 +82,46 @@
         "hotspot_FhgYQt": {
           "type": "hotspot",
           "settings": {
-            "heading": "Hotspot",
-            "description": "<p>Each piece is built for longevity, ensuring durability, repairability, flexibility, and resale value.</p>",
-            "top": 62,
-            "left": 43,
+            "image": "shopify://shop_images/icono_viloc.png",
+            "heading": "",
+            "description": "<h4>San Luis Potosí</h4>",
+            "top": 56,
+            "left": 53,
             "top_mobile": 62,
             "left_mobile": 43
+          }
+        },
+        "hotspot_BGfTHn": {
+          "type": "hotspot",
+          "settings": {
+            "image": "shopify://shop_images/icono_viloc.png",
+            "heading": "",
+            "description": "<h4>Querétaro</h4>",
+            "top": 63,
+            "left": 56,
+            "top_mobile": 9,
+            "left_mobile": 63
+          }
+        },
+        "hotspot_YVxM69": {
+          "type": "hotspot",
+          "settings": {
+            "image": "shopify://shop_images/icono_viloc.png",
+            "heading": "",
+            "description": "<h4>Aguascalientes</h4>",
+            "top": 58,
+            "left": 49,
+            "top_mobile": 9,
+            "left_mobile": 63
           }
         }
       },
       "block_order": [
         "hotspot_WzJRdd",
         "hotspot_GWTDJa",
-        "hotspot_FhgYQt"
+        "hotspot_FhgYQt",
+        "hotspot_BGfTHn",
+        "hotspot_YVxM69"
       ],
       "name": "t:sections.banner-with-hotspots.name",
       "settings": {
