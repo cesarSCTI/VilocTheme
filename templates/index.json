@@ -261,9 +261,11 @@
         "product_AJ47ka",
         "product_wByADN"
       ],
+      "disabled": true,
       "custom_css": [
         ".testimonial__content {max-width: 46rem;}"
       ],
+      "name": "Promociones",
       "settings": {
         "color_scheme": "scheme-1",
         "heading": "Promociones",
