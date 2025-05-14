@@ -47,69 +47,86 @@
         "image_height": "adapt",
         "enable_parallax": false,
         "parallax_direction": "vertical",
+        "image_mobile": "shopify://shop_images/banner-colecciones_viloc-movil-min.png",
         "image_height_mobile": "auto",
         "padding_top": 0,
-        "padding_bottom": 70
+        "padding_bottom": 30
       }
     },
-    "collection_list_slider_6qbNfj": {
-      "type": "collection-list-slider",
+    "collection_list_NLdYEx": {
+      "type": "collection-list",
       "blocks": {
-        "featured_collection_L9N3Tg": {
+        "featured_collection_tWHNtL": {
           "type": "featured_collection",
           "settings": {
-            "collection": "lonas",
-            "image": "shopify://shop_images/coleccion-lonas-viloc.png",
-            "title": "Lonas"
+            "collection": "",
+            "title": ""
           }
         },
-        "featured_collection_gxdACj": {
+        "featured_collection_gMyRRP": {
           "type": "featured_collection",
           "settings": {
-            "collection": "viniles",
-            "image": "shopify://shop_images/coleccion-viniles-viloc.png",
-            "title": "Viniles"
+            "collection": "",
+            "title": ""
           }
         },
-        "featured_collection_jQXtir": {
+        "featured_collection_RVAABi": {
           "type": "featured_collection",
           "settings": {
-            "collection": "canvas",
-            "image": "shopify://shop_images/coleccion-canvas-viloc.png",
-            "title": "Canvas"
+            "collection": "",
+            "title": ""
           }
         },
-        "featured_collection_4H9LzM": {
+        "featured_collection_4RpDtX": {
           "type": "featured_collection",
           "settings": {
-            "collection": "rigidos",
-            "image": "shopify://shop_images/coleccion-rigidos-viloc.png",
-            "title": "Rígidos"
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured_collection_f4B4hV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_L9N3Tg",
-        "featured_collection_gxdACj",
-        "featured_collection_jQXtir",
-        "featured_collection_4H9LzM"
+        "featured_collection_tWHNtL",
+        "featured_collection_gMyRRP",
+        "featured_collection_RVAABi",
+        "featured_collection_4RpDtX",
+        "featured_collection_f4B4hV"
       ],
-      "custom_css": [],
+      "name": "t:sections.collection-list.name",
       "settings": {
         "color_scheme": "",
         "section_header_alignment": "left",
         "section_header_alignment_mobile": "inherit",
         "subheading": "",
-        "heading": "Nuestras categorías",
-        "heading_size": "h3",
+        "heading": "",
+        "heading_size": "h1",
         "description": "",
-        "text_size": "text-lg",
+        "text_size": "text-base",
         "button_label": "",
         "button_link": "",
         "button_style": "btn--underline",
+        "card_color_scheme": "",
+        "card_style": "standard",
+        "card_heading_size": "text-base",
+        "card_image_ratio": "1/1",
+        "card_image_width": "large",
         "rounded_card_image": true,
-        "padding_top": 0,
-        "padding_bottom": 44,
+        "card_show_border": false,
+        "columns_desktop": 5,
+        "column_gap": "none",
+        "row_gap": "medium",
+        "grid_bordered": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -391,7 +408,7 @@
   "order": [
     "breadcrumbs_Gxg9wp",
     "banner",
-    "collection_list_slider_6qbNfj",
+    "collection_list_NLdYEx",
     "product-grid",
     "rich_text_dgPtDV",
     "buttons_with_icon_7zH9F3",
