@@ -47,7 +47,7 @@
         "enable_parallax": false,
         "parallax_direction": "horizontal",
         "image_mobile": "shopify://shop_images/banner-coleccion_lonas-movil-min.png",
-        "image_height_mobile": "auto",
+        "image_height_mobile": "adapt",
         "padding_top": 0,
         "padding_bottom": 70
       }
