@@ -83,7 +83,7 @@
         "hightlight_link_mgwVam": {
           "type": "hightlight_link",
           "settings": {
-            "hl_link_title": "Contacto",
+            "hl_link_title": "Todos los productos",
             "hl_link_color": "#e30613",
             "hl_link_style": "star_twinkle"
           }
