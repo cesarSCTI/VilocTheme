@@ -107,11 +107,18 @@
             "show_below_product_media": false
           }
         },
-        "text_VfMjdV": {
-          "type": "text",
+        "icon_with_text_M8zbNJ": {
+          "type": "icon-with-text",
           "settings": {
-            "text": "<strong>Características</strong>",
-            "text_style": "body"
+            "layout": "horizontal",
+            "title_font": "heading",
+            "title_size": "h4",
+            "icon_1": "none",
+            "heading_1": "<strong>Características</strong>",
+            "icon_2": "check",
+            "heading_2": "",
+            "icon_3": "check",
+            "heading_3": ""
           }
         },
         "table_kyD6e7": {
@@ -157,7 +164,7 @@
         "pickup_availability",
         "ficha_tKbrCt",
         "divider_pPz3Kw",
-        "text_VfMjdV",
+        "icon_with_text_M8zbNJ",
         "table_kyD6e7",
         "complementary",
         "payment_info"
@@ -165,7 +172,8 @@
       "custom_css": [
         ".product__table {padding: 15px 0px;}",
         ".f-price--large {color: #e30613 !important;}",
-        ".headTable, .contentTable {padding: 10px !important; font-size: 13px !important;}"
+        ".headTable,.contentTable {padding: 10px !important; font-size: 13px !important;}",
+        ".product__table {margin-top: -20px !important;}"
       ],
       "settings": {
         "color_scheme": "scheme-1",
