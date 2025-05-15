@@ -142,7 +142,10 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "custom_css": [],
+      "custom_css": [
+        ".f-price {color: #e30613 !important; font-size: 19px !important;}",
+        ".text-pcard-title {font-weight: bold !important; font-size: 22px !important;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "products_per_page": 20,
