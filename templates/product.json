@@ -196,7 +196,7 @@
             "navigation_title": "Especificaciones",
             "desktop_image_position": "left",
             "image_aspect_ratio": "adapt",
-            "heading": "Talk about your brand",
+            "heading": "Descripción general",
             "heading_size": "h3",
             "subheading": "",
             "description": "<p>{{ product.metafields.custom.descripcion_larga | metafield_tag }}</p>",
@@ -209,7 +209,7 @@
         "tab_xGBJeM": {
           "type": "tab",
           "settings": {
-            "navigation_title": "",
+            "navigation_title": "Envíos y Devoluciones",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "custom_liquid": "",
             "page": ""
@@ -318,8 +318,8 @@
         "section_header_alignment": "center",
         "section_header_alignment_mobile": "inherit",
         "subheading": "",
-        "heading": "Lookbook",
-        "heading_size": "h2",
+        "heading": "Aplicaciones",
+        "heading_size": "h1",
         "description": "",
         "text_size": "text-base",
         "column_gap": "medium",
@@ -339,7 +339,7 @@
         "section_header_alignment": "left",
         "section_header_alignment_mobile": "inherit",
         "subheading": "",
-        "heading": "You May Also Like",
+        "heading": "También te puede interesar",
         "heading_size": "h2",
         "description": "",
         "limit": 6,
@@ -351,7 +351,109 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 80,
-        "padding_bottom": 0,
+        "padding_bottom": 80,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collection_list_ynriBg": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_A8fVHw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured_collection_CaPWe6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured_collection_EifTkD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured_collection_RJwMwf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured_collection_ktXeAV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured_collection_XiWYgN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured_collection_EAM8ca": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured_collection_pQEhE8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_A8fVHw",
+        "featured_collection_CaPWe6",
+        "featured_collection_EifTkD",
+        "featured_collection_RJwMwf",
+        "featured_collection_ktXeAV",
+        "featured_collection_XiWYgN",
+        "featured_collection_EAM8ca",
+        "featured_collection_pQEhE8"
+      ],
+      "name": "t:sections.collection-list.name",
+      "settings": {
+        "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Collections",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "card_color_scheme": "",
+        "card_style": "standard",
+        "card_heading_size": "text-base",
+        "card_image_ratio": "1/1",
+        "card_image_width": "large",
+        "rounded_card_image": true,
+        "card_show_border": false,
+        "columns_desktop": 6,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "grid_bordered": false,
+        "columns_mobile": "3",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 50,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -362,6 +464,7 @@
     "main",
     "tabs_content_8rnbnj",
     "custom_content_aJPNXb",
-    "related-products"
+    "related-products",
+    "collection_list_ynriBg"
   ]
 }
