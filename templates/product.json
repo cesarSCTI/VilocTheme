@@ -194,6 +194,7 @@
           "type": "image_with_text",
           "settings": {
             "navigation_title": "Especificaciones",
+            "image": "{{ product.featured_image }}",
             "desktop_image_position": "left",
             "image_aspect_ratio": "adapt",
             "heading": "Descripción general",
