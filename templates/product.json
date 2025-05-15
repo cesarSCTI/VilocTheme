@@ -40,43 +40,15 @@
           "type": "meta",
           "settings": {
             "link_color": "",
-            "show_vendor": true,
-            "show_product_type": true,
-            "show_sku": false,
+            "show_vendor": false,
+            "show_product_type": false,
+            "show_sku": true,
             "show_barcode": false
           }
         },
         "price": {
           "type": "price",
           "settings": {}
-        },
-        "icon_with_text": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "title_font": "body-bolder",
-            "title_size": "text-base",
-            "icon_1": "check",
-            "heading_1": "Modern",
-            "icon_2": "check",
-            "heading_2": "Eco-certified",
-            "icon_3": "check",
-            "heading_3": "Warranty"
-          }
-        },
-        "divider_mHNaL9": {
-          "type": "divider",
-          "settings": {
-            "show_below_product_media": false
-          }
-        },
-        "inventory": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 10,
-            "show_inventory_quantity": true
-          }
         },
         "description": {
           "type": "description",
@@ -94,7 +66,7 @@
             "swatch_style": "square",
             "swatch_size": 32,
             "button_style": "normal",
-            "size_title": "Size",
+            "size_title": "Tamaño, Acabado",
             "size_chart_from_page": ""
           }
         },
@@ -103,19 +75,20 @@
           "settings": {
             "show_quantity_selector": true,
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_gift_card_recipient": false
           }
         },
         "icon_with_text_UAYgQU": {
           "type": "icon-with-text",
           "settings": {
             "layout": "vertical",
-            "title_font": "body",
+            "title_font": "heading",
             "title_size": "text-base",
-            "icon_1": "car-simple",
-            "heading_1": "Free International Shipping over $500",
+            "icon_1": "none",
+            "image_1": "shopify://shop_images/icono-tiempo_de_entrega.png",
+            "heading_1": "Tiempo de entrega estimado 2 a 4 días hábiles",
             "icon_2": "arrow-up-left",
-            "heading_2": "Free Returns Within 30 days",
+            "heading_2": "",
             "icon_3": "star-four",
             "heading_3": ""
           }
@@ -128,18 +101,22 @@
           "type": "ficha",
           "settings": {}
         },
+        "divider_pPz3Kw": {
+          "type": "divider",
+          "settings": {
+            "show_below_product_media": false
+          }
+        },
+        "text_VfMjdV": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Características</strong>",
+            "text_style": "body"
+          }
+        },
         "table_kyD6e7": {
           "type": "table",
           "settings": {}
-        },
-        "promotion_alert_L7ipQp": {
-          "type": "promotion_alert",
-          "settings": {
-            "text_color": "#0d8756",
-            "icon": "lightning",
-            "heading": "Limited time offer",
-            "description": "<p>Don’t miss out on this limited-time advantage crafted for you</p>"
-          }
         },
         "complementary": {
           "type": "complementary",
@@ -155,62 +132,16 @@
             "enable_quick_add": true
           }
         },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible tab heading",
-            "heading_size": "h4",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "page": "",
-            "default_open": true,
-            "show_below_product_media": true
-          }
-        },
-        "collapsible_tab_LJEHcH": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible tab heading",
-            "heading_size": "h4",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "page": "",
-            "default_open": false,
-            "show_below_product_media": true
-          }
-        },
-        "collapsible_tab_piweU8": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible tab heading",
-            "heading_size": "h4",
-            "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
-            "page": "",
-            "default_open": false,
-            "show_below_product_media": true
-          }
-        },
         "payment_info": {
           "type": "payment_info",
           "settings": {
-            "color_scheme": "scheme-info",
-            "heading": "Payment & Security",
+            "color_scheme": "scheme-9",
+            "heading": "Pago seguro con",
             "heading_size": "h5",
-            "description": "<p>Your payment information is processed securely. We do not store credit card details nor have access to your credit card information.</p>",
+            "description": "",
             "show_payment_icons": true,
-            "show_below_product_media": true
-          }
-        },
-        "divider_pPz3Kw": {
-          "type": "divider",
-          "settings": {
             "show_below_product_media": false
           }
-        },
-        "social_sharing": {
-          "type": "social_sharing",
-          "settings": {}
         }
       },
       "block_order": [
@@ -218,9 +149,6 @@
         "title",
         "meta",
         "price",
-        "icon_with_text",
-        "divider_mHNaL9",
-        "inventory",
         "description",
         "list_XfMEjc",
         "variant_picker",
@@ -228,18 +156,15 @@
         "icon_with_text_UAYgQU",
         "pickup_availability",
         "ficha_tKbrCt",
-        "table_kyD6e7",
-        "promotion_alert_L7ipQp",
-        "complementary",
-        "collapsible-row-1",
-        "collapsible_tab_LJEHcH",
-        "collapsible_tab_piweU8",
-        "payment_info",
         "divider_pPz3Kw",
-        "social_sharing"
+        "text_VfMjdV",
+        "table_kyD6e7",
+        "complementary",
+        "payment_info"
       ],
       "custom_css": [
-        ".product__table {padding: 15px 0px;}"
+        ".product__table {padding: 15px 0px;}",
+        ".f-price--large {color: #e30613 !important;}"
       ],
       "settings": {
         "color_scheme": "scheme-1",
