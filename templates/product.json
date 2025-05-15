@@ -1,7 +1,20 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breadcrumbs": {
       "type": "breadcrumbs",
+      "custom_css": [
+        ".breadcrumbs--last {font-weight: bold;}",
+        ".breadcrumbs a {color: #cccbcb !important; font-weight: bold;}"
+      ],
       "settings": {
         "text_alignment": "start"
       }
@@ -12,9 +25,9 @@
         "badges": {
           "type": "badges",
           "settings": {
-            "show_soldout_badge": true,
+            "show_soldout_badge": false,
             "show_sale_badge": true,
-            "sale_badge_type": "percentage"
+            "sale_badge_type": "text"
           }
         },
         "title": {
@@ -113,7 +126,7 @@
             "text_color": "#0d8756",
             "icon": "lightning",
             "heading": "Limited time offer",
-            "description": "<p>Don’t miss out on this limited-time advantage crafted for you<\/p>"
+            "description": "<p>Don’t miss out on this limited-time advantage crafted for you</p>"
           }
         },
         "complementary": {
@@ -126,7 +139,7 @@
             "icon": "tag",
             "product_list_limit": 6,
             "columns": 3,
-            "image_ratio": "1\/1",
+            "image_ratio": "1/1",
             "enable_quick_add": true
           }
         },
@@ -136,7 +149,7 @@
             "heading": "Collapsible tab heading",
             "heading_size": "h4",
             "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.<\/p>",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
             "page": "",
             "default_open": true,
             "show_below_product_media": true
@@ -148,7 +161,7 @@
             "heading": "Collapsible tab heading",
             "heading_size": "h4",
             "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.<\/p>",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
             "page": "",
             "default_open": false,
             "show_below_product_media": true
@@ -160,7 +173,7 @@
             "heading": "Collapsible tab heading",
             "heading_size": "h4",
             "icon": "none",
-            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.<\/p>",
+            "content": "<p>Fill in the text content of the collapsible item here. You can provide details and explanation for the question here.</p>",
             "page": "",
             "default_open": false,
             "show_below_product_media": true
@@ -172,7 +185,7 @@
             "color_scheme": "scheme-info",
             "heading": "Payment & Security",
             "heading_size": "h5",
-            "description": "<p>Your payment information is processed securely. We do not store credit card details nor have access to your credit card information.<\/p>",
+            "description": "<p>Your payment information is processed securely. We do not store credit card details nor have access to your credit card information.</p>",
             "show_payment_icons": true,
             "show_below_product_media": true
           }
@@ -214,10 +227,10 @@
         "color_scheme": "scheme-1",
         "enable_sticky_info": true,
         "media_size": "large",
-        "gallery_layout": "vertical-carousel",
-        "mobile_thumbnails": "show",
+        "gallery_layout": "grid-mix",
+        "mobile_thumbnails": "hide",
         "enable_image_zoom": true,
-        "enable_video_looping": true,
+        "enable_video_looping": false,
         "padding_top": 0,
         "padding_bottom": 80
       }
@@ -229,7 +242,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "none",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
             "product": ""
@@ -239,7 +252,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "none",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
             "product": ""
@@ -249,7 +262,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "none",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
             "product": ""
@@ -259,7 +272,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "none",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "bio": "",
             "product": ""
@@ -275,13 +288,13 @@
       "settings": {
         "container": "fixed",
         "color_scheme": "scheme-3",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
         "subheading": "",
         "heading": "Testimonials",
         "heading_size": "h2",
         "description": "",
         "text_size": "text-base",
-        "section_header_alignment": "left",
-        "section_header_alignment_mobile": "inherit",
         "layout": "standard",
         "card_color_scheme": "",
         "card_image_ratio": "adapt",
@@ -309,7 +322,7 @@
             "heading": "Talk about your brand",
             "heading_size": "h3",
             "subheading": "",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "description_size": "text-base",
             "button_label": "",
             "button_link": "",
@@ -325,7 +338,7 @@
             "heading": "Talk about your brand",
             "heading_size": "h3",
             "subheading": "",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "description_size": "text-base",
             "button_label": "Button label",
             "button_link": "",
@@ -336,7 +349,7 @@
           "type": "tab",
           "settings": {
             "navigation_title": "",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "custom_liquid": "",
             "page": ""
           }
@@ -368,7 +381,7 @@
           "settings": {
             "title": "Column",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
@@ -380,7 +393,7 @@
           "settings": {
             "title": "Column",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
@@ -392,7 +405,7 @@
           "settings": {
             "title": "Column",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
@@ -404,7 +417,7 @@
           "settings": {
             "title": "Column",
             "heading_size": "h4",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "text-base",
             "button_label": "",
             "button_style": "btn--underline",
@@ -420,6 +433,8 @@
       ],
       "settings": {
         "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
         "subheading": "",
         "heading": "Multicolumn",
         "heading_size": "h2",
@@ -428,8 +443,6 @@
         "button_label": "",
         "button_link": "",
         "button_style": "btn--underline",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
         "content_alignment": "left",
         "show_col_count": true,
         "columns_desktop": 4,
@@ -450,7 +463,7 @@
           "type": "hotspot",
           "settings": {
             "heading": "Hotspot",
-            "description": "<p>Each piece is built for longevity, ensuring durability, repairability, flexibility, and resale value.<\/p>",
+            "description": "<p>Each piece is built for longevity, ensuring durability, repairability, flexibility, and resale value.</p>",
             "top": 50,
             "left": 37,
             "top_mobile": 45,
@@ -461,7 +474,7 @@
           "type": "hotspot",
           "settings": {
             "heading": "Hotspot",
-            "description": "<p>Each piece is built for longevity, ensuring durability, repairability, flexibility, and resale value.<\/p>",
+            "description": "<p>Each piece is built for longevity, ensuring durability, repairability, flexibility, and resale value.</p>",
             "top": 40,
             "left": 63,
             "top_mobile": 50,
@@ -472,7 +485,7 @@
           "type": "hotspot",
           "settings": {
             "heading": "Hotspot",
-            "description": "<p>Each piece is built for longevity, ensuring durability, repairability, flexibility, and resale value.<\/p>",
+            "description": "<p>Each piece is built for longevity, ensuring durability, repairability, flexibility, and resale value.</p>",
             "top": 70,
             "left": 47,
             "top_mobile": 62,
@@ -488,6 +501,8 @@
       "settings": {
         "container": "fixed",
         "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
         "subheading": "",
         "heading": "Banner with hotspots",
         "heading_size": "h2",
@@ -496,8 +511,6 @@
         "button_label": "",
         "button_link": "",
         "button_style": "btn--underline",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
         "icon_style": "plus",
         "icon_color": "light",
         "card_color_scheme": "",
@@ -518,7 +531,10 @@
         },
         "description_ym9hXF": {
           "type": "description",
-          "settings": {}
+          "settings": {
+            "text_line_limit": "3-lines",
+            "show_view_more_button": false
+          }
         },
         "price_adCEcV": {
           "type": "price",
@@ -547,12 +563,12 @@
       ],
       "settings": {
         "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
         "heading": "Quick comparison table",
         "heading_size": "h2",
         "description": "",
         "description_size": "text-base",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
         "limit": 8,
         "padding_top": 80,
         "padding_bottom": 0,
@@ -579,7 +595,7 @@
         "text_nF69XB": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "subtext_color": true
           }
         },
@@ -696,12 +712,13 @@
         "container": "fixed",
         "color_scheme": "",
         "enable_sticky_column": false,
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
         "subheading": "",
         "heading": "Lookbook",
         "heading_size": "h2",
         "description": "",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
+        "text_size": "text-base",
         "column_gap": "medium",
         "row_gap": "large",
         "swipe_on_mobile": true,
@@ -716,12 +733,12 @@
       "type": "related-products",
       "settings": {
         "color_scheme": "scheme-1",
-        "heading": "You May Also Like",
-        "heading_size": "h2",
-        "subheading": "",
-        "description": "",
         "section_header_alignment": "left",
         "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "You May Also Like",
+        "heading_size": "h2",
+        "description": "",
         "limit": 6,
         "columns": 5,
         "column_gap": "medium",
@@ -747,7 +764,7 @@
             "max_width_mb": 60,
             "title": "Column",
             "heading_size": "h6",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
             "text_size": "text-base",
             "button_label": "Button label",
             "button_style": "btn--underline",
@@ -762,7 +779,7 @@
             "max_width_mb": 60,
             "title": "Column",
             "heading_size": "h6",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
             "text_size": "text-base",
             "button_label": "Button label",
             "button_style": "btn--underline",
@@ -777,7 +794,7 @@
             "max_width_mb": 60,
             "title": "Column",
             "heading_size": "h6",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>",
             "text_size": "text-base",
             "button_label": "Button label",
             "button_style": "btn--underline",
@@ -795,6 +812,8 @@
       ],
       "settings": {
         "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
         "subheading": "",
         "heading": "Multicolumn with icon",
         "heading_size": "h2",
@@ -803,8 +822,6 @@
         "button_label": "",
         "button_link": "",
         "button_style": "btn--underline",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
         "card_color_scheme": "",
         "content_alignment": "center",
         "image_position": "top",
@@ -899,6 +916,8 @@
       ],
       "settings": {
         "color_scheme": "scheme-2",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
         "subheading": "",
         "heading": "Gallery images",
         "heading_size": "hd2",
@@ -907,8 +926,6 @@
         "button_label": "@garage_store",
         "button_link": "",
         "button_style": "btn--underline",
-        "section_header_alignment": "center",
-        "section_header_alignment_mobile": "inherit",
         "direction": "left",
         "speed": 0.1,
         "pause_on_hover": true,
