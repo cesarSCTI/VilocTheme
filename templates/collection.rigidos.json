@@ -41,11 +41,13 @@
         "color_scheme": "scheme-9",
         "text_alignment": "center",
         "show_collection_image": true,
+        "image": "shopify://shop_images/banner-coleccion_rigidos-min.png",
         "image_overlay_opacity": 0,
         "image_position": "as-bg",
         "image_height": "adapt",
         "enable_parallax": false,
         "parallax_direction": "horizontal",
+        "image_mobile": "shopify://shop_images/banner-coleccion_rigidos-movil-min.png",
         "image_height_mobile": "auto",
         "padding_top": 0,
         "padding_bottom": 70
