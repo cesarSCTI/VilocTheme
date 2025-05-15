@@ -55,34 +55,10 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "blocks": {
-        "image_card_mwkyJy": {
-          "type": "image_card",
-          "settings": {
-            "color_scheme": "scheme-inverse",
-            "image_position": 1,
-            "image_ratio": "adapt",
-            "image_overlay_opacity": 0,
-            "content_position": "split-bottom-button",
-            "content_alignment": "center",
-            "content_spacing": "medium",
-            "card_link": "",
-            "subheading": "Add a Tagline",
-            "heading": "Image card",
-            "heading_size": "h3",
-            "description": "",
-            "text_size": "text-base",
-            "button_label": "Button label",
-            "button_style": "btn--primary",
-            "order_first": false,
-            "enable_preload_image": false
-          }
-        }
-      },
-      "block_order": [
-        "image_card_mwkyJy"
+      "custom_css": [
+        ".f-price {color: #e30613 !important; font-size: 19px !important;}",
+        ".text-pcard-title {font-weight: bold !important; font-size: 22px !important;}"
       ],
-      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-1",
         "products_per_page": 20,
@@ -92,10 +68,10 @@
         "enable_color_swatch": false,
         "filter_type": "vertical",
         "expand_filter_groups": "Availability, Price, Color, Size, Category",
-        "enable_sorting": false,
+        "enable_sorting": true,
         "enable_layout_switching": false,
         "columns_mobile": "1",
-        "padding_top": 30,
+        "padding_top": 0,
         "padding_bottom": 60,
         "show_section_divider": false,
         "divider_width": "fixed"
