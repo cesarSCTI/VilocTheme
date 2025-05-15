@@ -340,7 +340,7 @@
             "heading": "Talk about your brand",
             "heading_size": "h3",
             "subheading": "",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>{{ product.metafields.custom.descripcion_larga | metafield_tag }}</p>",
             "description_size": "text-base",
             "button_label": "",
             "button_link": "",
