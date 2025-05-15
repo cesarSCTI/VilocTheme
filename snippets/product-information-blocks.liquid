@@ -487,6 +487,29 @@
               {%- endif -%}
             </div>
           </div>
+        {% when 'list' %}  
+        <ul>
+          {% for item in product.metafields.list %}
+            {% if item[1] != blank %}
+              <li>
+                <strong>{{ item[0] | replace: "_", " " | capitalize }}:</strong>
+                {{ item[1] }}
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        {% when 'table' %}  
+        <div class="product__table">
+          {% for item in product.metafields.table %}
+            {% if item[1] != blank %}
+              <div class="product__table-row">
+                <div class="headTable"><strong>{{ item[0] | replace: "_", " " | capitalize }}:</strong></div>
+                <div class="contentTable">{{ item[1] }}</div>
+              </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+
       {%- endcase -%}
     {%- endfor -%}
   </div>

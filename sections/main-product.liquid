@@ -1,3 +1,18 @@
+<style>
+  .product__table {
+    display: flex;
+    flex-direction: column;
+}
+.product__table-row {
+    display: flex;
+    align-items: center;
+    min-height: 30px;
+}
+.headTable, .contentTable{
+  width: 50%;
+}
+</style>
+
 {%- liquid
   assign media_layout = section.settings.gallery_layout | default: 'carousel'
   assign mobile_thumbnails = section.settings.mobile_thumbnails | default: 'hide'
@@ -150,6 +165,16 @@
           "label": "t:sections.main-product.blocks.text.settings.text_style.label"
         }
       ]
+    },
+    {
+      "type":"list",
+      "name":"list Metacampos",
+      "limit":1
+    },
+    {
+      "type":"table",
+      "name":"table Metacampos",
+      "limit":1
     },
     {
       "type": "title",
