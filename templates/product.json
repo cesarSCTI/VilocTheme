@@ -238,7 +238,9 @@
         "divider_pPz3Kw",
         "social_sharing"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".product__table {padding: 15px 0px;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "enable_sticky_info": true,
