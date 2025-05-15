@@ -178,81 +178,6 @@
         "padding_bottom": 80
       }
     },
-    "testimonials_8JHr3L": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_4nXcQ7": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": ""
-          }
-        },
-        "testimonial_pNihpA": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": ""
-          }
-        },
-        "testimonial_dPMfPd": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": ""
-          }
-        },
-        "testimonial_CXAGMb": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "bio": "",
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_4nXcQ7",
-        "testimonial_pNihpA",
-        "testimonial_dPMfPd",
-        "testimonial_CXAGMb"
-      ],
-      "settings": {
-        "container": "fixed",
-        "color_scheme": "scheme-3",
-        "section_header_alignment": "left",
-        "section_header_alignment_mobile": "inherit",
-        "subheading": "",
-        "heading": "Testimonials",
-        "heading_size": "h2",
-        "description": "",
-        "text_size": "text-base",
-        "layout": "standard",
-        "card_color_scheme": "",
-        "card_image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_gap": "medium",
-        "row_gap": "medium",
-        "enable_slider": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "show_section_divider": false,
-        "divider_width": "fixed"
-      }
-    },
     "tabs_content_8rnbnj": {
       "type": "tabs-content",
       "blocks": {
@@ -293,7 +218,7 @@
         "color_scheme": "",
         "navigation_style": "headings",
         "navigation_alignment": "start",
-        "padding_top": 80,
+        "padding_top": 50,
         "padding_bottom": 0,
         "show_section_divider": false,
         "divider_width": "fixed"
@@ -866,7 +791,6 @@
   "order": [
     "breadcrumbs",
     "main",
-    "testimonials_8JHr3L",
     "tabs_content_8rnbnj",
     "multicolumn_Mxt4d3",
     "lookbook_banner_UAnED3",
