@@ -509,7 +509,12 @@
             {% endif %}
           {% endfor %}
         </div>
-
+      {% when 'ficha' %} 
+        {% if product.metafields.custom.ficha_tecnica.value %}
+          <a href="" class="ficha" target="_blank">
+            {%  render 'downloadvector' %}<span>Descargar Ficha técnica</span>
+          </a>
+        {% endif %}
       {%- endcase -%}
     {%- endfor -%}
   </div>
