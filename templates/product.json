@@ -196,7 +196,7 @@
             "navigation_title": "Especificaciones",
             "image": "{{ product.featured_image }}",
             "desktop_image_position": "left",
-            "image_aspect_ratio": "adapt",
+            "image_aspect_ratio": "4/3",
             "heading": "Descripción general",
             "heading_size": "h3",
             "subheading": "",
@@ -211,7 +211,7 @@
           "type": "tab",
           "settings": {
             "navigation_title": "Envíos y Devoluciones",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Realizamos envíos a diferentes estados de la República como: Guanajuato, San Luis Potosí, Zacatecas, Aguascalientes, Querétaro y Jalisco. El tiempo de entrega varía según la ubicación y la disponibilidad del producto. Una vez procesado tu pedido, te enviaremos un número de guía para dar seguimiento al envío.</p><p>Por políticas de calidad, no realizamos devoluciones por error de compra o mal uso del producto. Solo se aceptan devoluciones en caso de defectos de fábrica, los cuales deben reportarse dentro de los primeros 5 días hábiles posteriores a la entrega. Es indispensable conservar el empaque original y no haber manipulado el material.</p><p>Si tienes dudas sobre tu compra, contáctanos antes de realizar el pedido. Estamos aquí para ayudarte.</p>",
             "custom_liquid": "",
             "page": ""
           }
