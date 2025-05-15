@@ -164,7 +164,8 @@
       ],
       "custom_css": [
         ".product__table {padding: 15px 0px;}",
-        ".f-price--large {color: #e30613 !important;}"
+        ".f-price--large {color: #e30613 !important;}",
+        ".headTable, .contentTable {padding: 10px !important; font-size: 13px !important;}"
       ],
       "settings": {
         "color_scheme": "scheme-1",
