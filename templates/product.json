@@ -237,35 +237,12 @@
     "custom_content_aJPNXb": {
       "type": "custom-content",
       "blocks": {
-        "lookbook_card_hotspot_rJaXPd": {
-          "type": "lookbook_card_hotspot",
-          "settings": {
-            "icon_style": "dot",
-            "icon_color": "light",
-            "image_ratio": "adapt",
-            "product_1": "",
-            "top_1": 43,
-            "left_1": 43,
-            "product_2": "",
-            "top_2": 64,
-            "left_2": 60,
-            "product_3": "",
-            "top_3": 0,
-            "left_3": 0,
-            "product_4": "",
-            "top_4": 0,
-            "left_4": 0,
-            "width": "33%",
-            "alignment": "center",
-            "block_custom_class": ""
-          }
-        },
         "lookbook_card_hotspot_p44hjW": {
           "type": "lookbook_card_hotspot",
           "settings": {
             "icon_style": "dot",
             "icon_color": "light",
-            "image_ratio": "adapt",
+            "image_ratio": "4/3",
             "product_1": "",
             "top_1": 17,
             "left_1": 15,
@@ -278,7 +255,7 @@
             "product_4": "",
             "top_4": 9,
             "left_4": 63,
-            "width": "33%",
+            "width": "50%",
             "alignment": "center",
             "block_custom_class": ""
           }
@@ -288,7 +265,7 @@
           "settings": {
             "icon_style": "dot",
             "icon_color": "light",
-            "image_ratio": "adapt",
+            "image_ratio": "4/3",
             "product_1": "",
             "top_1": 40,
             "left_1": 20,
@@ -301,14 +278,13 @@
             "product_4": "",
             "top_4": 9,
             "left_4": 63,
-            "width": "33%",
+            "width": "50%",
             "alignment": "center",
             "block_custom_class": ""
           }
         }
       },
       "block_order": [
-        "lookbook_card_hotspot_rJaXPd",
         "lookbook_card_hotspot_p44hjW",
         "lookbook_card_hotspot_3GJzqy"
       ],
