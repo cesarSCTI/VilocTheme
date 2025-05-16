@@ -307,7 +307,7 @@
     },
     "search": {
       "no_results_text": "No se encontraron resultados para “{{ terms }}”.",
-      "no_results_message": "Check the spelling or use a different word or phrase.",
+      "no_results_message": "Comprueba la ortografía o utiliza una palabra o frase diferente.",
       "products": "Productos Relacionados",
       "results_with_count": {
         "one": "{{ count }} result",
