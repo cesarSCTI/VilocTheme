@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -159,25 +168,25 @@
   },
   "products": {
     "product": {
-      "add_to_cart": "Add to cart",
-      "add_to_cart_short": "Add",
-      "add_all_to_cart": "Add all to cart",
-      "buy_it_now": "Buy it now",
-      "choose_options": "Choose options",
-      "choose_options_short": "View",
-      "quick_view": "Quick view",
-      "shop": "Shop",
-      "view_product_list": "View product list",
-      "description": "Description",
-      "inventory_in_stock": "Available in stock",
-      "inventory_in_stock_show_count_html": "Available in stock <strong>({{ quantity }})</strong>",
-      "inventory_low_stock": "Low stock",
+      "add_to_cart": "Agregar al carrito",
+      "add_to_cart_short": "Agregar",
+      "add_all_to_cart": "Agregar todo al carrito",
+      "buy_it_now": "Comprar ahora",
+      "choose_options": "Elegir opciones",
+      "choose_options_short": "Ver",
+      "quick_view": "Vista rápida",
+      "shop": "Tienda",
+      "view_product_list": "Ver lista de productos",
+      "description": "Descripción",
+      "inventory_in_stock": "Disponible en stock",
+      "inventory_in_stock_show_count_html": "Disponible en stock <strong>({{ quantity }})</strong>",
+      "inventory_low_stock": "Bajo stock",
       "inventory_low_stock_one_item_html": "Hurry up, only <strong>{{ quantity }}</strong> item left in stock.",
       "inventory_low_stock_many_items_html": "Hurry up, only <strong>{{ quantity }}</strong> items left in stock.",
-      "inventory_out_of_stock": "Out of stock",
-      "inventory_out_of_stock_continue_selling": "In stock",
-      "on_sale": "Sale",
-      "product_variants": "Product variants",
+      "inventory_out_of_stock": "Agotado",
+      "inventory_out_of_stock_continue_selling": "Disponible",
+      "on_sale": "Oferta",
+      "product_variants": "Variantes del producto",
       "open_size_chart": "Size chart",
       "media": {
         "gallery_viewer": "Gallery Viewer",
@@ -186,7 +195,7 @@
         "play_model": "Play 3D Viewer"
       },
       "quantity": {
-        "label": "Quantity",
+        "label": "Cantidad",
         "input_label": "Quantity for {{ product }}",
         "increase": "Increase quantity for {{ product }}",
         "decrease": "Decrease quantity for {{ product }}",
@@ -207,19 +216,19 @@
         "each": "{{ money }}/ea"
       },
       "pickup_availability": {
-        "view_store_info": "View store information",
-        "check_other_stores": "Check availability at other stores",
-        "pick_up_available": "Pickup available",
-        "pick_up_available_at_html": "Pickup available at <span class=\"color-foreground\">{{ location_name }}</span>",
+        "view_store_info": "Ver información de la tienda",
+        "check_other_stores": "Comprobar disponibilidad en otras tiendas",
+        "pick_up_available": "Disponible para recoger",
+        "pick_up_available_at_html": "Disponible para recoger en <span class=\"color-foreground\">{{ location_name }}</span>",
         "pick_up_unavailable_at_html": "Pickup currently unavailable at <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "Couldn't load pickup availability",
-        "refresh": "Refresh"
+        "refresh": "Actualizar"
       },
       "price": {
-        "label": "Price",
+        "label": "Precio",
         "from_price_html": "From {{ price }}",
-        "regular_price": "Regular price",
-        "sale_price": "Sale price",
+        "regular_price": "Precio regular",
+        "sale_price": "Precio con descuento",
         "unit_price": "Unit price",
         "save_price_html": "Save <span data-sale-value>{{ amount }}</span>"
       },
@@ -236,7 +245,7 @@
         "note": "The fields marked * are required.",
         "success_message": "Thanks for contacting us. We'll get back to you as soon as possible."
       },
-      "sold_out": "Sold out",
+      "sold_out": "Agotado",
       "unavailable": "Unavailable",
       "sku": "SKU",
       "barcode": "Barcode",
@@ -244,18 +253,18 @@
       "type": "Type",
       "value_unavailable": "{{ option_value }} - Unavailable",
       "variant_sold_out_or_unavailable": "Variant sold out or unavailable",
-      "view_details": "View details",
-      "view_full_details": "View full details",
-      "compare": "Compare",
+      "view_details": "Ver detalles",
+      "view_full_details": "Ver información completa",
+      "compare": "Comparar",
       "xr_button": "View in your space",
       "xr_button_label": "View in your space, loads item in augmented reality window",
       "include_taxes": "Tax included.",
       "shipping_policy_html": "<a href=\"{{ link }}\">Shipping</a> calculated at checkout."
     },
     "compare": {
-      "alert_message": "You can only add a maximum of {{ maximum }} products to compare.",
-      "modal_title": "Product Comparison",
-      "remove": "Remove",
+      "alert_message": "Sólo puede añadir un máximo de {{ maximum }} productos para comparar.",
+      "modal_title": "Comparativa de productos",
+      "remove": "Eliminar",
       "toggle_compare_list": "Toggle compare list"
     },
     "facets": {
