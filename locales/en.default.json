@@ -306,7 +306,7 @@
       "title": "Categorías"
     },
     "search": {
-      "no_results_text": "No results found for “{{ terms }}”.",
+      "no_results_text": "No se encontraron resultados para “{{ terms }}”.",
       "no_results_message": "Check the spelling or use a different word or phrase.",
       "products": "Productos Relacionados",
       "results_with_count": {
