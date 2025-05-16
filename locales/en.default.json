@@ -40,7 +40,7 @@
       "copy": "Copy",
       "copied": "Copied"
     },
-    "continue_shopping": "Continue shopping",
+    "continue_shopping": "Seguir comprando",
     "pagination": {
       "label": "Pagination",
       "page": "Page {{ number }}",
@@ -64,7 +64,7 @@
       "title": "Your cart",
       "view_empty_cart": "View cart",
       "remove": "Remove",
-      "continue_shopping": "Continue shopping",
+      "continue_shopping": "Seguir comprando",
       "note": {
         "title": "Order note",
         "caption": "Order special instructions",
@@ -296,7 +296,7 @@
   "collections": {
     "general": {
       "empty": "Lo sentimos, no hay productos en esta colección.",
-      "continue_shopping": "Continue shopping",
+      "continue_shopping": "Seguir comprando",
       "no_results": "No products match those filters.",
       "use_fewer_filters": "Use fewer filters or"
     }
@@ -563,6 +563,11 @@
   "shopify": {
     "page_titles": {
       "products": "Productos"
+    },
+    "checkout": {
+      "thank_you": {
+        "return_to_store_link_label": "Seguir comprando"
+      }
     }
   }
 }
