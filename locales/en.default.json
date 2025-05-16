@@ -350,7 +350,7 @@
     "cart": {
       "title": "Tu carrito",
       "remove_title": "Remove {{ title }}",
-      "estimated_total": "Estimated total",
+      "estimated_total": "Total estimado",
       "checkout": "Check out",
       "empty": "Tu carrito está vacío.",
       "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\" class=\"btn--link text-sm-extra\">shipping</a> calculated at checkout",
