@@ -327,7 +327,7 @@
       "most_searched_products": "Most searched products"
     },
     "cart": {
-      "cart": "Cart"
+      "cart": "Carrito"
     },
     "contact": {
       "form": {
@@ -342,7 +342,7 @@
       }
     },
     "404": {
-      "title": "404 Page not found",
+      "title": "404 Página no encontrada",
       "subtext": "The page you requested does not exist."
     }
   },
