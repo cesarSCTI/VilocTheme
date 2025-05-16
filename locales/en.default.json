@@ -356,7 +356,7 @@
       "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\" class=\"btn--link text-sm-extra\">shipping</a> calculated at checkout",
       "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
       "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\" class=\"btn--link text-sm-extra\">Shipping</a> and discounts calculated at checkout.",
-      "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
+      "taxes_and_shipping_at_checkout": "Impuestos y gastos de envío calculados al pagar",
       "headings": {
         "product": "Product",
         "total": "Total",
