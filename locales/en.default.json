@@ -332,12 +332,12 @@
     "contact": {
       "form": {
         "title": "Contact form",
-        "name": "Nombre",
+        "name": "Nombre y Apellido",
         "email": "Email",
         "phone": "Phone number",
-        "comment": "Your message",
-        "send": "Submit now",
-        "post_success": "Thanks for contacting us. We'll get back to you as soon as possible.",
+        "comment": "Su mensaje",
+        "send": "Enviar",
+        "post_success": "Gracias por contactarnos. Le atenderemos lo antes posible.",
         "error_heading": "Please adjust the following:"
       }
     },
