@@ -50,7 +50,7 @@
     },
     "breadcrumbs": {
       "home": "Home",
-      "collections": "Collection"
+      "collections": "Categorías"
     },
     "search": {
       "search": "Search",
@@ -303,7 +303,7 @@
   },
   "templates": {
     "collections": {
-      "title": "Collections"
+      "title": "Categorías"
     },
     "search": {
       "no_results_text": "No results found for “{{ terms }}”.",
@@ -321,7 +321,7 @@
       "search_for": "See all results for “{{ terms }}”",
       "suggestions": "Suggestions",
       "articles_pages": "Articles & Pages",
-      "collections": "Collections",
+      "collections": "Categorías",
       "clear": "Clear",
       "most_searched_keywords": "Most searched keywords",
       "most_searched_products": "Most searched products"
@@ -562,7 +562,8 @@
   },
   "shopify": {
     "page_titles": {
-      "products": "Productos"
+      "products": "Productos",
+      "collections": "Categorías"
     },
     "checkout": {
       "thank_you": {
