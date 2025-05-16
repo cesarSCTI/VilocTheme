@@ -14,14 +14,14 @@
     "cart-drawer": {
       "type": "cart-drawer",
       "settings": {
-        "show_cart_note": true,
+        "show_cart_note": false,
         "show_shipping_rates_calculator": false,
         "show_free_shipping_goal": false,
         "enable_cart_recommendations": true,
         "cart_recommendations_heading": "También te puede interesar",
         "cart_recommendations_limit": 3,
         "cart_recommendations_products": [],
-        "cart_mess_color_scheme": "",
+        "cart_mess_color_scheme": "scheme-9",
         "cart_message": "",
         "cart_message_alignment": "center"
       }
@@ -38,7 +38,7 @@
         "description_HnwTqC": {
           "type": "description",
           "settings": {
-            "text_line_limit": "3-lines",
+            "text_line_limit": "5-lines",
             "show_view_more_button": false
           }
         },
@@ -62,14 +62,6 @@
     "quick-view": {
       "type": "quick-view",
       "blocks": {
-        "badges": {
-          "type": "badges",
-          "settings": {
-            "show_soldout_badge": true,
-            "show_sale_badge": true,
-            "sale_badge_type": "text"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -79,8 +71,8 @@
         "meta": {
           "type": "meta",
           "settings": {
-            "link_color": "#1d349a",
-            "show_vendor": true,
+            "link_color": "#e30613",
+            "show_vendor": false,
             "show_product_type": false,
             "show_sku": true,
             "show_barcode": false
@@ -89,28 +81,6 @@
         "price": {
           "type": "price",
           "settings": {}
-        },
-        "icon_with_text_dNbmeH": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "title_font": "heading",
-            "title_size": "h5",
-            "icon_1": "check",
-            "heading_1": "Modern",
-            "icon_2": "check",
-            "heading_2": "Eco-certified",
-            "icon_3": "check",
-            "heading_3": "Warranty"
-          }
-        },
-        "inventory": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 20,
-            "show_inventory_quantity": true
-          }
         },
         "description": {
           "type": "description",
@@ -133,24 +103,24 @@
           "settings": {
             "show_quantity_selector": true,
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_gift_card_recipient": false
           }
         }
       },
       "block_order": [
-        "badges",
         "title",
         "meta",
         "price",
-        "icon_with_text_dNbmeH",
-        "inventory",
         "description",
         "variant_picker",
         "buy_buttons"
       ],
+      "custom_css": [
+        ".f-price--large {color: #e30613 !important;}"
+      ],
       "settings": {
-        "enable_sticky_info": true,
-        "enable_video_looping": true
+        "enable_sticky_info": false,
+        "enable_video_looping": false
       }
     },
     "spotlight-picks": {
@@ -272,6 +242,7 @@
         "form",
         "socials"
       ],
+      "disabled": true,
       "settings": {
         "enable": true,
         "show_for_homepage_only": true,
