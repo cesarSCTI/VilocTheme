@@ -61,7 +61,7 @@
       "close_search": "Close search popup"
     },
     "cart": {
-      "title": "Your cart",
+      "title": "Tu carrito",
       "view_empty_cart": "View cart",
       "remove": "Remove",
       "continue_shopping": "Seguir comprando",
@@ -348,11 +348,11 @@
   },
   "sections": {
     "cart": {
-      "title": "Your cart",
+      "title": "Tu carrito",
       "remove_title": "Remove {{ title }}",
       "estimated_total": "Estimated total",
       "checkout": "Check out",
-      "empty": "Your cart is currently empty.",
+      "empty": "Tu carrito está vacío.",
       "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\" class=\"btn--link text-sm-extra\">shipping</a> calculated at checkout",
       "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
       "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\" class=\"btn--link text-sm-extra\">Shipping</a> and discounts calculated at checkout.",
