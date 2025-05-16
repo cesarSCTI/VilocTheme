@@ -318,7 +318,7 @@
         "other": "{{ count }} results found for “{{ terms }}”"
       },
       "title": "Search results",
-      "search_for": "See all results for “{{ terms }}”",
+      "search_for": "Ver todos los resultados de “{{ terms }}”",
       "suggestions": "Suggestions",
       "articles_pages": "Articles & Pages",
       "collections": "Categorías",
