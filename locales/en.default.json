@@ -68,7 +68,7 @@
       "note": {
         "title": "Nota de pedido",
         "caption": "Instrucciones especiales para pedidos",
-        "button": "Apply"
+        "button": "Aplicar"
       },
       "free_shipping": {
         "remaining_html": "Spend {{ remaining_amount }} more to reach free shipping!",
@@ -269,7 +269,7 @@
     },
     "facets": {
       "filter_and_operator_subtitle": "Match all",
-      "apply": "Apply",
+      "apply": "Aplicar",
       "clear": "Clear",
       "clear_all": "Clear all",
       "from": "From",
@@ -567,6 +567,21 @@
     "checkout": {
       "thank_you": {
         "return_to_store_link_label": "Seguir comprando"
+      },
+      "order_summary": {
+        "apply_discount_button_label": "Aplicar"
+      },
+      "payment": {
+        "apply_gift_card_button_label": "Aplicar"
+      }
+    }
+  },
+  "customer_accounts": {
+    "orders": {
+      "order_list": {
+        "filter": {
+          "apply": "Aplicar"
+        }
       }
     }
   }
