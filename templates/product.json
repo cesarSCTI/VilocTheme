@@ -149,6 +149,16 @@
             "show_payment_icons": true,
             "show_below_product_media": false
           }
+        },
+        "sticky_atc_bar_wYAiNA": {
+          "type": "sticky-atc-bar",
+          "settings": {
+            "container": "full",
+            "visibility": "all",
+            "show_atc_button": true,
+            "show_dynamic_checkout_buttons": true,
+            "show_quantity": true
+          }
         }
       },
       "block_order": [
@@ -167,7 +177,8 @@
         "icon_with_text_M8zbNJ",
         "table_kyD6e7",
         "complementary",
-        "payment_info"
+        "payment_info",
+        "sticky_atc_bar_wYAiNA"
       ],
       "custom_css": [
         ".product__table {padding: 15px 0px;}",
@@ -244,8 +255,8 @@
             "icon_color": "light",
             "image_ratio": "4/3",
             "product_1": "",
-            "top_1": 17,
-            "left_1": 15,
+            "top_1": 65,
+            "left_1": 38,
             "product_2": "",
             "top_2": 34,
             "left_2": 56,
