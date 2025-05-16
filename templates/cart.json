@@ -56,24 +56,28 @@
     },
     "recently_viewed_products_w4PGc3": {
       "type": "recently-viewed-products",
+      "custom_css": [
+        ".f-price {color: #e30613 !important; font-size: 19px !important;}",
+        ".text-pcard-title {font-weight: bold !important; font-size: 22px !important;}"
+      ],
       "settings": {
         "color_scheme": "",
         "section_header_alignment": "left",
         "section_header_alignment_mobile": "inherit",
         "subheading": "",
-        "heading": "Recently viewed products",
-        "heading_size": "h2",
+        "heading": "Productos vistos recientemente",
+        "heading_size": "h1",
         "description": "",
-        "limit": 8,
+        "limit": 4,
         "columns": 4,
         "column_gap": "medium",
         "row_gap": "inherit",
-        "enable_slider": true,
+        "enable_slider": false,
         "pcard_image_ratio": "",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 60,
-        "padding_bottom": 80,
+        "padding_bottom": 60,
         "show_section_divider": true,
         "divider_width": "full"
       }
