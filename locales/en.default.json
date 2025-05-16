@@ -55,7 +55,7 @@
     "search": {
       "search": "Search",
       "reset": "Clear search term",
-      "placeholder": "What are you looking for?",
+      "placeholder": "¿Qué estás buscando?",
       "all_products": "All Categories",
       "search_type": "Search type",
       "close_search": "Close search popup"
