@@ -124,7 +124,7 @@
         "card_color_scheme": "",
         "card_style": "standard",
         "card_heading_size": "text-base",
-        "card_image_ratio": "1/1",
+        "card_image_ratio": "adapt",
         "card_image_width": "large",
         "rounded_card_image": true,
         "card_show_border": false,

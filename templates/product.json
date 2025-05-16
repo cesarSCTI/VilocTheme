@@ -322,24 +322,28 @@
     },
     "related-products": {
       "type": "related-products",
+      "custom_css": [
+        ".f-price {color: #e30613 !important; font-size: 19px !important;}",
+        ".text-pcard-title {font-weight: bold !important; font-size: 22px !important;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "section_header_alignment": "left",
         "section_header_alignment_mobile": "inherit",
         "subheading": "",
         "heading": "También te puede interesar",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
-        "limit": 6,
-        "columns": 5,
+        "limit": 3,
+        "columns": 3,
         "column_gap": "medium",
         "row_gap": "inherit",
-        "enable_slider": true,
+        "enable_slider": false,
         "pcard_image_ratio": "",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 80,
-        "padding_bottom": 80,
+        "padding_bottom": 70,
         "show_section_divider": false,
         "divider_width": "fixed"
       }
@@ -349,57 +353,42 @@
       "blocks": {
         "featured_collection_A8fVHw": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
-            "collection": "",
+            "collection": "promociones",
+            "image": "shopify://shop_images/coleccion-promociones-viloc.png",
             "title": ""
           }
         },
         "featured_collection_CaPWe6": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "lonas",
+            "image": "shopify://shop_images/coleccion-lonas-viloc.png",
             "title": ""
           }
         },
         "featured_collection_EifTkD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "viniles",
+            "image": "shopify://shop_images/coleccion-viniles-viloc.png",
             "title": ""
           }
         },
         "featured_collection_RJwMwf": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "canvas",
+            "image": "shopify://shop_images/coleccion-canvas-viloc.png",
             "title": ""
           }
         },
         "featured_collection_ktXeAV": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_XiWYgN": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_EAM8ca": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": ""
-          }
-        },
-        "featured_collection_pQEhE8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
+            "collection": "rigidos",
+            "image": "shopify://shop_images/coleccion-rigidos-viloc.png",
             "title": ""
           }
         }
@@ -409,10 +398,10 @@
         "featured_collection_CaPWe6",
         "featured_collection_EifTkD",
         "featured_collection_RJwMwf",
-        "featured_collection_ktXeAV",
-        "featured_collection_XiWYgN",
-        "featured_collection_EAM8ca",
-        "featured_collection_pQEhE8"
+        "featured_collection_ktXeAV"
+      ],
+      "custom_css": [
+        ".collection-card--style-standard .collection-card__title {font-weight: bold !important;}"
       ],
       "name": "t:sections.collection-list.name",
       "settings": {
@@ -420,7 +409,7 @@
         "section_header_alignment": "center",
         "section_header_alignment_mobile": "inherit",
         "subheading": "",
-        "heading": "Collections",
+        "heading": "Nuestras categorías",
         "heading_size": "h1",
         "description": "",
         "text_size": "text-base",
@@ -430,20 +419,98 @@
         "card_color_scheme": "",
         "card_style": "standard",
         "card_heading_size": "text-base",
-        "card_image_ratio": "1/1",
+        "card_image_ratio": "adapt",
         "card_image_width": "large",
         "rounded_card_image": true,
         "card_show_border": false,
-        "columns_desktop": 6,
-        "column_gap": "medium",
-        "row_gap": "inherit",
+        "columns_desktop": 5,
+        "column_gap": "none",
+        "row_gap": "medium",
         "grid_bordered": false,
-        "columns_mobile": "3",
-        "swipe_on_mobile": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 50,
+        "padding_bottom": 100,
         "show_section_divider": false,
         "divider_width": "fixed"
+      }
+    },
+    "scrolling_promotion_JtjDtX": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_Kqb7aU": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Atención personalizada",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_F6NKKn": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Rápido y a tiempo",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_7mQeXR": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Contamos con garantía",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_aWJyBa": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Pago seguro",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_6HCc4Q": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Calidad + precio",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "text_Kqb7aU",
+        "text_F6NKKn",
+        "text_7mQeXR",
+        "text_aWJyBa",
+        "text_6HCc4Q"
+      ],
+      "name": "t:sections.scrolling-promotion.name",
+      "settings": {
+        "color_scheme": "scheme-8",
+        "direction": "left",
+        "pause_on_hover": false,
+        "speed": 0.5,
+        "h_spacing": 80,
+        "show_section_divider": false,
+        "padding_top": 22,
+        "padding_bottom": 22
       }
     }
   },
@@ -453,6 +520,7 @@
     "tabs_content_8rnbnj",
     "custom_content_aJPNXb",
     "related-products",
-    "collection_list_ynriBg"
+    "collection_list_ynriBg",
+    "scrolling_promotion_JtjDtX"
   ]
 }
