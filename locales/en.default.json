@@ -295,7 +295,7 @@
   },
   "collections": {
     "general": {
-      "empty": "Sorry, there are no products in this collection.",
+      "empty": "Lo sentimos, no hay productos en esta colección.",
       "continue_shopping": "Continue shopping",
       "no_results": "No products match those filters.",
       "use_fewer_filters": "Use fewer filters or"
