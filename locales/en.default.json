@@ -62,7 +62,7 @@
     },
     "cart": {
       "title": "Tu carrito",
-      "view_empty_cart": "View cart",
+      "view_empty_cart": "Ver carrito",
       "remove": "Remove",
       "continue_shopping": "Seguir comprando",
       "note": {
@@ -392,7 +392,7 @@
     },
     "quick_order_list": {
       "product_total": "Product subtotal",
-      "view_cart": "View cart",
+      "view_cart": "Ver carrito",
       "each": "{{ money }}/ea",
       "product": "Product",
       "variant": "Variant",
