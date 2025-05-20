@@ -10,6 +10,7 @@
 {
   "current": {
     "enable_back_to_top": true,
+    "copyright_text": "Materiales para impresión | Todos los Derechos Reservados",
     "logo": "shopify://shop_images/logo-Viloc_Materiales_para_impresion.png",
     "logo_width": 80,
     "logo_mobile": "shopify://shop_images/logo-Viloc_Materiales_para_impresion.png",
@@ -604,6 +605,8 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      ".footer__bottom-row.flex.justify-between.items-center {text-align: center; justify-content: center;}"
+    ]
   }
 }
