@@ -15,6 +15,11 @@
         "id": "enable_back_to_top",
         "label": "t:settings_schema.general.settings.enable_back_to_top.label",
         "default": false
+      },
+      {
+        "type": "textarea",
+        "id":"copyright_text",
+        "label": "copyright_text"
       }
     ]
   },
