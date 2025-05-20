@@ -123,6 +123,7 @@
             "heading": "",
             "image": "shopify://shop_images/logo_Viloc_Materiales_para_impresion.png",
             "image_width": 150,
+            "imagen_id": "",
             "text": "",
             "button_label": "",
             "button_link": "",
@@ -136,6 +137,7 @@
             "block_width": 30,
             "heading": "",
             "image_width": 150,
+            "imagen_id": "",
             "text": "<p>Desarrollamos los materiales ideales de mayor calidad y durabilidad para la industria de la comunicación visual en nuestro país.</p>",
             "button_label": "",
             "button_link": "",
@@ -175,6 +177,21 @@
             "open_default": false,
             "show_divider": false
           }
+        },
+        "image_text_Eb8hpk": {
+          "type": "image_text",
+          "settings": {
+            "block_width": 100,
+            "heading": "",
+            "image": "shopify://shop_images/metodos_de_pago_a552e20a-dbec-43d6-a53f-3de7b07eb685.png",
+            "image_width": 450,
+            "imagen_id": "metodos",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "open_default": false,
+            "show_divider": false
+          }
         }
       },
       "block_order": [
@@ -182,7 +199,8 @@
         "image_text_rVhp86",
         "menu_DEKGYP",
         "menu_4eCrBB",
-        "contact_information_BJfqUB"
+        "contact_information_BJfqUB",
+        "image_text_Eb8hpk"
       ],
       "custom_css": [],
       "settings": {
@@ -241,11 +259,22 @@
         "enable_sticky_bar": true,
         "show_text": true
       }
+    },
+    "custom_liquid_JwKQ6a": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.name",
+      "settings": {
+        "custom_liquid": "<style>\n@media only screen and (max-width:768px){\n#metodos img{\nmax-width:320px;\n}\n}\n</style>",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
     "multicolumn_icon_rTKNUF",
     "footer",
-    "mobile_sticky_bar_aYhgJK"
+    "mobile_sticky_bar_aYhgJK",
+    "custom_liquid_JwKQ6a"
   ]
 }
