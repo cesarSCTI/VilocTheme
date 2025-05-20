@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -155,11 +164,11 @@
     "product_description": "Esta área se utiliza para describir los detalles de su producto. Informe a los clientes sobre la apariencia, la sensación y el estilo de su producto. Agregue detalles sobre el color, los materiales utilizados, el tamaño y dónde se fabricó.",
     "collection_title": "Nombre de la colección",
     "collection_description": "Descripción de la colección aquí que proporciona detalles sobre la colección.",
-    "no_script_alert":"Habilite JavaScript para usar esta función."
+    "no_script_alert": "Habilite JavaScript para usar esta función."
   },
   "products": {
     "product": {
-      "add_to_cart": "Añadir a la cesta",
+      "add_to_cart": "Añadir al carrito",
       "add_to_cart_short": "Agregar",
       "add_all_to_cart": "Añadir todo al carrito",
       "buy_it_now": "Compre ya",
@@ -256,7 +265,7 @@
       "alert_message": "Solo puedes agregar un máximo de {{ maximum }} productos para comparar.",
       "modal_title": "Comparación de productos",
       "remove": "Eliminar",
-      "toggle_compare_list":"Lista de comparación de alternar"
+      "toggle_compare_list": "Lista de comparación de alternar"
     },
     "facets": {
       "filter_and_operator_subtitle": "Combinar todos",
