@@ -351,7 +351,7 @@
       "title": "tu carrito",
       "remove_title": "Eliminar {{ title }}",
       "estimated_total": "Total estimado",
-      "checkout": "Verificar",
+      "checkout": "Pagar",
       "empty": "Su carrito está actualmente vacío.",
       "taxes_and_shipping_policy_at_checkout_html": "Impuestos y <a href=\"{{ link }}\" class=\"btn--link text-sm-extra\">envío</a> calculados al finalizar la compra",
       "taxes_included_but_shipping_at_checkout": "Impuestos incluidos y envío calculado al finalizar la compra.",
