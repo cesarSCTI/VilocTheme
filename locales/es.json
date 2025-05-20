@@ -336,10 +336,10 @@
     "contact": {
       "form": {
         "title": "Formulario de contacto",
-        "name": "Nombre",
+        "name": "Nombre y Apellido",
         "email": "Correo electrónico",
         "phone": "Número de teléfono",
-        "comment": "tu mensaje",
+        "comment": "Tu mensaje",
         "send": "Enviar ahora",
         "post_success": "Gracias por contactarnos. Nos comunicaremos con usted lo antes posible.",
         "error_heading": "Por favor ajuste lo siguiente:"
