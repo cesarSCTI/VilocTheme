@@ -606,7 +606,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".footer__bottom-row.flex.justify-between.items-center {text-align: center; justify-content: center;}"
+      ".footer__bottom-row.flex.justify-between.items-center {text-align: center; justify-content: center;}",
+      ".section.section--padding.color-scheme-1 {display: none;}"
     ]
   }
 }
