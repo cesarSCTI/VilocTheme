@@ -50,7 +50,7 @@
     },
     "breadcrumbs": {
       "home": "Inicio",
-      "collections": "Recopilación"
+      "collections": "Productos"
     },
     "search": {
       "search": "Buscar",
@@ -367,7 +367,7 @@
       "cart_quantity_error_html": "Solo puedes agregar {{ quantity }} de este artículo a tu carrito."
     },
     "collection_template": {
-      "title": "Recopilación"
+      "title": "Productos"
     },
     "slideshow": {
       "pause_slideshow": "Pausar presentación de diapositivas",
