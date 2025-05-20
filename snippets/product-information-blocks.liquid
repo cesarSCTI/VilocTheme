@@ -492,7 +492,13 @@
           {% for item in product.metafields.list %}
             {% if item[1] != blank %}
               <li>
+                {% if item[0] == 'composicion' %}
+                <strong>Composición:</strong>
+                {% elsif item[0] == 'superficies_de_aplicacion' %}
+                  <strong>Superficies de aplicación:</strong>
+                {% else %}
                 <strong>{{ item[0] | replace: "_", " " | capitalize }}:</strong>
+                {% endif %}
                 {{ item[1] }}
               </li>
             {% endif %}
@@ -503,7 +509,13 @@
           {% for item in product.metafields.table %}
             {% if item[1] != blank %}
               <div class="product__table-row">
-                <div class="headTable"><strong>{{ item[0] | replace: "_", " " | capitalize }}:</strong></div>
+                {% if item[0] == 'impresion' %}
+                  <div class="headTable"><strong>Impresión:</strong></div>
+                {% elsif item[0] == 'Adhesion' %}
+                  <div class="headTable"><strong>Adhesión:</strong></div>
+                {% else %}
+                  <div class="headTable"><strong>{{ item[0] | replace: "_", " " | capitalize }}:</strong></div>
+                {% endif %}
                 <div class="contentTable">{{ item[1] }}</div>
               </div>
             {% endif %}
