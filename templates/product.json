@@ -152,7 +152,7 @@
             "heading": "Pago seguro con",
             "heading_size": "h5",
             "description": "",
-            "show_payment_icons": true,
+            "show_payment_icons": false,
             "show_below_product_media": false
           }
         },
