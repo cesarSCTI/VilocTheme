@@ -198,7 +198,7 @@
         "enable_sticky_info": true,
         "media_size": "large",
         "gallery_layout": "grid-mix",
-        "mobile_thumbnails": "hide",
+        "mobile_thumbnails": "show",
         "enable_image_zoom": true,
         "enable_video_looping": false,
         "padding_top": 0,
