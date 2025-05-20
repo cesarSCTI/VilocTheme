@@ -214,6 +214,7 @@
                           <div
                             class="footer-image-box__image media-wrapper"
                             style="width: {{ block.settings.image_width }}px"
+                            id="{{ block.settings.imagen_id }}"
                           >
                             {{
                               block.settings.image
@@ -499,11 +500,16 @@
           "type": "range",
           "id": "image_width",
           "min": 50,
-          "max": 250,
-          "step": 2,
+          "max": 450,
+          "step": 10,
           "default": 150,
           "unit": "px",
           "label": "t:general.image_width.label"
+        },
+        {
+          "type": "text",
+          "id": "imagen_id",
+          "label": "imagen_id"
         },
         {
           "type": "richtext",
