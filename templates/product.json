@@ -307,6 +307,7 @@
         "lookbook_card_hotspot_p44hjW",
         "lookbook_card_hotspot_3GJzqy"
       ],
+      "disabled": true,
       "settings": {
         "container": "fixed",
         "color_scheme": "",
