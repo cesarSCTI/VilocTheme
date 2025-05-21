@@ -20,5 +20,8 @@
         {{ block.settings.description }}
       </div>
     {%- endif -%}
+    {% if block.settings.payment_image != blank %}
+      {{ block.settings.payment_image |image_url: width: 500  | image_tag: class: 'product__payment-image' }}
+    {% endif %}
   </div>
 {%- endif -%}
