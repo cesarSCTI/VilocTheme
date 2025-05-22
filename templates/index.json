@@ -17,6 +17,7 @@
           "settings": {
             "color_scheme": "scheme-9",
             "background": "shopify://shop_images/banner-viloc_Materiales_para_impresion1-min.png",
+            "background_mobile": "shopify://shop_images/banner-viloc_Materiales_para_impresion1-movil-min.png",
             "image_overlay_opacity": 0,
             "content_position": "middle-center",
             "text_alignment": "center",
@@ -39,6 +40,7 @@
           "settings": {
             "color_scheme": "scheme-9",
             "background": "shopify://shop_images/banner-viloc_Materiales_para_impresion2-min.png",
+            "background_mobile": "shopify://shop_images/banner-viloc_Materiales_para_impresion2-movil-min.png",
             "image_overlay_opacity": 0,
             "content_position": "middle-center",
             "text_alignment": "center",
@@ -62,7 +64,8 @@
         "slide_k3NKF6"
       ],
       "custom_css": [
-        ".custom_image {max-height: 120px; width: auto;}"
+        ".custom_image {max-height: 120px; width: auto;}",
+        "@media only screen and (max-width: 600px) {.hd1,h2 {font-size: 25px; }}"
       ],
       "settings": {
         "container": "full",
@@ -70,7 +73,7 @@
         "show_controls": true,
         "autoplay": true,
         "autoplay_delay": 7,
-        "show_text_below": true,
+        "show_text_below": false,
         "text_alignment_mobile": "center",
         "accessibility_info": ""
       }
