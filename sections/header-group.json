@@ -73,7 +73,7 @@
         "custom_link_4ga4Q8": {
           "type": "custom_link",
           "settings": {
-            "label": "Puntos de venta",
+            "label": "Cobertura",
             "link": "shopify://pages/puntos-de-venta",
             "icon": "location",
             "icon_size": "large"
