@@ -239,9 +239,9 @@
           "type": "product",
           "settings": {
             "color_scheme": "scheme-inverse",
-            "product": "",
+            "product": "lona-10-oz",
             "image": "shopify://shop_images/promocion-lona_brillante_y_mate-min.png",
-            "text": "<p>Aprovecha nuestra Lona Estándar Brillante y Mate con la mejor calidad y al mejor precio</p>",
+            "text": "<p>Aprovecha nuestra Lona Blanca Brillante y Mate con la mejor calidad y al mejor precio</p>",
             "author": "Precio hasta agotar existencias. Aplican restricciones.",
             "bio": ""
           }
@@ -250,7 +250,7 @@
           "type": "product",
           "settings": {
             "color_scheme": "scheme-inverse",
-            "product": "",
+            "product": "lona-mesh",
             "image": "shopify://shop_images/promocion-rollo-min.png",
             "text": "<p>Precio especial en la compra por Rollo solo por este Mes</p>",
             "author": "Aplican restricciones.",
@@ -284,15 +284,15 @@
           "type": "image_card_with_product",
           "settings": {
             "color_scheme": "scheme-9",
-            "image": "shopify://shop_images/img-microperforados-Vinil-min.png",
+            "image": "shopify://shop_images/producto-destacado-vinil-microperforado-VILOC-min.png",
             "image_ratio": "3/4",
             "subheading": "",
-            "heading": "",
+            "heading": "Vinil Microperforado",
             "heading_size": "h1",
             "description": "",
             "button_label": "Comprar",
             "button_style": "btn--primary",
-            "product": "",
+            "product": "vinil-microperforado",
             "width": "33%",
             "alignment": "center",
             "block_custom_class": ""
@@ -302,15 +302,15 @@
           "type": "image_card_with_product",
           "settings": {
             "color_scheme": "scheme-9",
-            "image": "shopify://shop_images/img_LONA_FRONTLIT-min.png",
+            "image": "shopify://shop_images/producto-destacado-lonay-13oz-VILOC-min.png",
             "image_ratio": "3/4",
             "subheading": "",
-            "heading": "",
+            "heading": "Lona 13oz Glossy",
             "heading_size": "h1",
             "description": "",
             "button_label": "Comprar",
             "button_style": "btn--primary",
-            "product": "",
+            "product": "lona-13-oz",
             "width": "33%",
             "alignment": "center",
             "block_custom_class": ""
@@ -320,15 +320,15 @@
           "type": "image_card_with_product",
           "settings": {
             "color_scheme": "scheme-9",
-            "image": "shopify://shop_images/img-LONA-CANVAS-min.png",
+            "image": "shopify://shop_images/producto-destacado-vinil-blanco_adhesivo-VILOC-min.png",
             "image_ratio": "3/4",
             "subheading": "",
-            "heading": "",
+            "heading": "Vinil Blanco Brillante",
             "heading_size": "h1",
             "description": "",
             "button_label": "Comprar",
             "button_style": "btn--primary",
-            "product": "",
+            "product": "vinil-adhesivo-blanco",
             "width": "33%",
             "alignment": "center",
             "block_custom_class": ""
@@ -355,10 +355,10 @@
         "row_gap": "large",
         "swipe_on_mobile": true,
         "columns_mobile": "1",
-        "padding_top": 40,
-        "padding_bottom": 0,
-        "show_section_divider": false,
-        "divider_width": "fixed"
+        "padding_top": 50,
+        "padding_bottom": 70,
+        "show_section_divider": true,
+        "divider_width": "full"
       }
     },
     "image_with_text_aXhRxw": {
@@ -412,8 +412,8 @@
         "desktop_content_position": "center",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "inherit",
-        "show_section_divider": false,
-        "divider_width": "fixed",
+        "show_section_divider": true,
+        "divider_width": "full",
         "padding_top": 80,
         "padding_bottom": 80
       }
