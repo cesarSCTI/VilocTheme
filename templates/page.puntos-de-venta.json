@@ -59,8 +59,8 @@
           "type": "hotspot",
           "settings": {
             "image": "shopify://shop_images/icono_viloc.png",
-            "heading": "León Guanajuato",
-            "description": "<p>Blvd. Antonio Madrazo #2018, Colonia Linares, CP: 37230,</p>",
+            "heading": "OFICINAS",
+            "description": "<h6>León, Guanajuato</h6><p>Blvd. Antonio Madrazo #2018, Colonia Linares, CP: 37230,</p>",
             "top": 64,
             "left": 52,
             "top_mobile": 62,
