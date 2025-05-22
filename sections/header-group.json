@@ -74,7 +74,7 @@
           "type": "custom_link",
           "settings": {
             "label": "Cobertura",
-            "link": "shopify://pages/puntos-de-venta",
+            "link": "shopify://pages/cobertura",
             "icon": "location",
             "icon_size": "large"
           }
