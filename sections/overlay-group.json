@@ -126,48 +126,6 @@
     "spotlight-picks": {
       "type": "spotlight-picks",
       "blocks": {
-        "discount_1": {
-          "type": "discount",
-          "settings": {
-            "color_scheme": "",
-            "icon": "tag",
-            "icon_size": "large",
-            "heading": "Highlight Deals and Discounts",
-            "heading_size": "h5",
-            "description": "<p>Showcase top discounts to help customers find great deals quickly</p>",
-            "discount_code": "",
-            "button_label": "Copy",
-            "button_style": "btn--primary"
-          }
-        },
-        "discount_2": {
-          "type": "discount",
-          "settings": {
-            "color_scheme": "",
-            "icon": "tag",
-            "icon_size": "large",
-            "heading": "Highlight Deals and Discounts",
-            "heading_size": "h5",
-            "description": "<p>Showcase top discounts to help customers find great deals quickly</p>",
-            "discount_code": "",
-            "button_label": "Copy",
-            "button_style": "btn--primary"
-          }
-        },
-        "discount_3": {
-          "type": "discount",
-          "settings": {
-            "color_scheme": "",
-            "icon": "tag",
-            "icon_size": "large",
-            "heading": "Highlight Deals and Discounts",
-            "heading_size": "h5",
-            "description": "<p>Showcase top discounts to help customers find great deals quickly</p>",
-            "discount_code": "",
-            "button_label": "Copy",
-            "button_style": "btn--primary"
-          }
-        },
         "discount_4": {
           "type": "discount",
           "settings": {
@@ -184,14 +142,11 @@
         }
       },
       "block_order": [
-        "discount_1",
-        "discount_2",
-        "discount_3",
         "discount_4"
       ],
       "disabled": true,
       "settings": {
-        "header_color_scheme": "",
+        "header_color_scheme": "scheme-9",
         "header_message": "",
         "header_message_alignment": "center",
         "heading": "Spotlight picks",
@@ -244,7 +199,7 @@
       ],
       "disabled": true,
       "settings": {
-        "enable": true,
+        "enable": false,
         "show_for_homepage_only": true,
         "show_for_visitors_only": true,
         "trigger_open": "delay",
