@@ -496,6 +496,8 @@
                 <strong>Composición:</strong>
                 {% elsif item[0] == 'superficies_de_aplicacion' %}
                   <strong>Superficies de aplicación:</strong>
+                {% elsif item[0] == 'deniers' %}
+                <strong>Denier´s:</strong>
                 {% else %}
                 <strong>{{ item[0] | replace: "_", " " | capitalize }}:</strong>
                 {% endif %}
