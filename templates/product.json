@@ -68,8 +68,8 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "button",
-            "swatch_type": "shopify_swatch",
-            "swatch_style": "square",
+            "swatch_type": "variant_image",
+            "swatch_style": "standard",
             "swatch_size": 32,
             "button_style": "normal",
             "size_title": "Tamaño, Acabado",
