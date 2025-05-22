@@ -40,7 +40,8 @@
         "slide_rEn9bC"
       ],
       "custom_css": [
-        ".custom_image {max-height: 120px; width: auto;}"
+        ".custom_image {max-height: 120px; width: auto;}",
+        "@media only screen and (max-width: 600px) {.hd1, h2 {font-size: 35px; }}"
       ],
       "name": "t:sections.slideshow.name",
       "settings": {
