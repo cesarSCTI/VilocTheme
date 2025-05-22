@@ -82,7 +82,7 @@
           "type": "text",
           "settings": {
             "text_link": "",
-            "text": "Calidad + Precio",
+            "text": "Calidad + precio",
             "text_size": "h2",
             "text_opacity": 100,
             "use_custom_color": true,
