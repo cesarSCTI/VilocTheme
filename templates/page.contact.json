@@ -105,7 +105,7 @@
             "icon_heading_size_3": "h5",
             "icon_text_3": "<p>Lunes a viernes: 8:00 a.m. a 5:30 p.m.<br/>Sábados y domingos: Cerrados.</p>",
             "icon_vertical_alignment_3": "start",
-            "button_label": "Puntos de Venta",
+            "button_label": "Cobertura",
             "button_link": "shopify://pages/puntos-de-venta",
             "button_style": "btn--secondary"
           }
