@@ -259,22 +259,11 @@
         "enable_sticky_bar": true,
         "show_text": true
       }
-    },
-    "custom_liquid_JwKQ6a": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.name",
-      "settings": {
-        "custom_liquid": "<style>\n@media only screen and (max-width:768px){\n#metodos img{\nmax-width:320px;\n}\n}\n</style>",
-        "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
     }
   },
   "order": [
     "multicolumn_icon_rTKNUF",
     "footer",
-    "mobile_sticky_bar_aYhgJK",
-    "custom_liquid_JwKQ6a"
+    "mobile_sticky_bar_aYhgJK"
   ]
 }
