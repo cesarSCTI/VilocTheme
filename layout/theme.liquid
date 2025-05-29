@@ -133,5 +133,45 @@
     {%- if settings.enable_product_compare -%}
       <script src="{{ 'compare.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+    <script>
+      
+var modalTimeout;
+var modalAlreadyShown = false;
+
+function resetModalTimeout() {
+  clearTimeout(modalTimeout);
+  modalTimeout = setTimeout(function() {
+    if (!modalAlreadyShown) {
+      showModal();
+      modalAlreadyShown = true;
+    }
+  }, 1000);
+}
+
+document.addEventListener("mousemove", resetModalTimeout);
+document.addEventListener("keydown", resetModalTimeout);
+document.addEventListener("scroll", resetModalTimeout);
+
+// Inicia el temporizador al cargar la página
+resetModalTimeout();
+
+function showModal() {
+  var modalHtml = '<div id="customModal" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); z-index: 9999; display: flex; justify-content: center; align-items: center;">';
+  modalHtml += '<a href="https://api.whatsapp.com/send/?phone=524775658952&text=¡Hola! quisiera mas información&type=phone_number&app_absent=0"><img src="https://cdn.shopify.com/s/files/1/0676/5300/9452/files/asistencia-al-cliente-viloc.png" style="max-width: 100%; max-height: 100%;" /></a>';
+  modalHtml += '</div>';
+
+  document.body.insertAdjacentHTML('beforeend', modalHtml);
+
+  document.addEventListener('click', closeModal);
+
+  function closeModal(event) {
+    if (event.target.id === 'customModal') {
+      var modal = document.getElementById('customModal');
+      modal.parentNode.removeChild(modal);
+    }
+  }
+}
+
+    </script>
   </body>
 </html>
