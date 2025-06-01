@@ -8,6 +8,26 @@
     "theme_support_url": "https://help.foxecom.com/"
   },
   {
+    "name": "Pop up settings",
+    "settings": [
+      {
+        "type": "text",
+        "id": "text_wthasapp",
+        "label": "Text WhatsApp",
+      },
+      {
+        "type": "text",
+        "id": "phone_wthasapp",
+        "label": "Phone WhatsApp",
+      },
+      {
+        "type": "image_picker",
+        "id":"image_popup",
+        "label": "Image"
+      }
+    ]
+  },
+  {
     "name": "t:settings_schema.general.name",
     "settings": [
       {
