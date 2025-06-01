@@ -11,6 +11,13 @@
     "name": "Pop up settings",
     "settings": [
       {
+        "type": "checkbox",
+        "default": true,
+        "id": "enable_popup",
+        "label": "Enable Pop Up",
+        "info": "Enable or disable the pop-up feature on your store."
+      },
+      {
         "type": "text",
         "id": "text_wthasapp",
         "label": "Text WhatsApp",

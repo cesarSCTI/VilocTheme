@@ -133,7 +133,9 @@
     {%- if settings.enable_product_compare -%}
       <script src="{{ 'compare.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-    <script>
+
+{% if settings.enable_popup %}
+<script>
 /*
 var modalTimeout;
 var modalAlreadyShown = false;
@@ -188,5 +190,6 @@ function showModal() {
     }
   });
 </script>
+{% endif %}
   </body>
 </html>
