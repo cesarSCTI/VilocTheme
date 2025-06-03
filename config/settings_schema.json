@@ -19,11 +19,6 @@
       },
       {
         "type": "text",
-        "id": "text_wthasapp",
-        "label": "Text WhatsApp",
-      },
-      {
-        "type": "text",
         "id": "phone_wthasapp",
         "label": "Phone WhatsApp",
       },
