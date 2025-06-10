@@ -395,6 +395,7 @@
         },
         "featured_collection_ktXeAV": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "rigidos",
             "image": "shopify://shop_images/coleccion-rigidos-viloc.png",
