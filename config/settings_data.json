@@ -9,7 +9,6 @@
  */
 {
   "current": {
-    "text_wthasapp": "Hola!. me gustaría tener mas información",
     "phone_wthasapp": "4775658952",
     "image_popup": "shopify://shop_images/asistencia-al-cliente-viloc.png",
     "enable_back_to_top": true,
@@ -88,6 +87,7 @@
     "predictive_search_show_price": true,
     "products_recommendations": [],
     "currency_code_enabled": true,
+    "text_wthasapp": "Hola!. me gustaría tener mas información",
     "section_header_alignment": "center",
     "collection_card_color_scheme": "scheme-1",
     "collection_card_style": "style-1",

@@ -65,7 +65,7 @@
       ],
       "custom_css": [
         ".custom_image {max-height: 120px; width: auto;}",
-        "@media only screen and (max-width: 600px) {.hd1,h2 {font-size: 25px; }}"
+        "@media only screen and (max-width: 600px) {.hd1, h2 {font-size: 25px; }}"
       ],
       "settings": {
         "container": "full",
@@ -202,6 +202,7 @@
         },
         "collection_XBe9hq": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "rigidos",
             "image": "shopify://shop_images/img-categoria-rigidos-min.png",
