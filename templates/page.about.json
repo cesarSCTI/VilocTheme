@@ -240,6 +240,7 @@
         "collapsible_item_zzBAAN",
         "collapsible_item_WWBUag"
       ],
+      "disabled": true,
       "custom_css": [
         ".section__content {max-width: 108rem; margin: 0 auto;}"
       ],
