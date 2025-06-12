@@ -53,7 +53,7 @@
         "custom_liquid_fCjDxq": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<h5 style=\"color:#e30613; margin-top:-25px;\">+ IVA</h5>"
+            "custom_liquid": "<h5 style=\"color:#e30613; margin-top:-25px;\">IVA Incluido</h5>"
           }
         },
         "description": {
