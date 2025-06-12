@@ -91,7 +91,6 @@
         },
         "featured_collection_f4B4hV": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "rigidos",
             "image": "shopify://shop_images/coleccion-rigidos-viloc.png",
@@ -109,7 +108,6 @@
       "custom_css": [
         ".collection-card--style-standard .collection-card__title {font-weight: bold !important;}"
       ],
-      "name": "t:sections.collection-list.name",
       "settings": {
         "color_scheme": "",
         "section_header_alignment": "left",
