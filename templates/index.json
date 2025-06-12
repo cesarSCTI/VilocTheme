@@ -202,10 +202,9 @@
         },
         "collection_XBe9hq": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "rigidos",
-            "image": "shopify://shop_images/img-categoria-rigidos-min.png",
+            "image": "shopify://shop_images/img-categoria-rigidos2-min.png",
             "title": "",
             "text": "",
             "button_label": "Ver productos",
@@ -270,7 +269,6 @@
       "custom_css": [
         ".testimonial__content {max-width: 46rem;}"
       ],
-      "name": "Promociones",
       "settings": {
         "color_scheme": "scheme-1",
         "heading": "Promociones",
