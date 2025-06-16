@@ -30,7 +30,6 @@
         },
         "cart_shipping_rate_bnhQBk": {
           "type": "cart_shipping_rate",
-          "disabled": true,
           "settings": {}
         },
         "subtotal_LeUiVY": {
@@ -51,11 +50,82 @@
       ],
       "settings": {
         "padding_top": 70,
-        "padding_bottom": 100
+        "padding_bottom": 90
+      }
+    },
+    "rich_text_cHKy84": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_frMHd4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Aviso Importante",
+            "heading_size": "h2"
+          }
+        },
+        "text_YUgBJA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Viloc o el servicio de paquetería elegido no se hace responsable de direcciones incompletas, te pedimos revisar cuidadosamente la dirección de tu entrega, gracias.</p>",
+            "text_size": "text-base",
+            "text_line_limit": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_frMHd4",
+        "text_YUgBJA"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "color_scheme": "scheme-8",
+        "use_color_scheme_in_container": true,
+        "content_spacing": "tight",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 10,
+        "show_section_divider": true,
+        "divider_width": "full"
+      }
+    },
+    "rich_text_dCKyVj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_646FEf": {
+          "type": "heading",
+          "settings": {
+            "heading": "¿Necesitas factura?",
+            "heading_size": "h2"
+          }
+        },
+        "text_daxFUt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mandanos al correo: <a href=\"mailto:seguidor1@viloc.com.mx\" target=\"_blank\" title=\"mailto:seguidor1@viloc.com.mx\"><strong>seguidor1@viloc.com.mx</strong></a><strong> </strong>tu RFC, Constancia de Situación Fiscal en pdf, Uso del CDFI, Régimen fiscal y Número de pedido.</p><p><em><strong>Nota: Es necesario tener los datos completos que solictamos para poderte facturar. </strong></em></p>",
+            "text_size": "text-base",
+            "text_line_limit": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_646FEf",
+        "text_daxFUt"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "use_color_scheme_in_container": true,
+        "content_spacing": "tight",
+        "content_alignment": "center",
+        "padding_top": 10,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "full"
       }
     },
     "recently_viewed_products_w4PGc3": {
       "type": "recently-viewed-products",
+      "disabled": true,
       "custom_css": [
         ".f-price {color: #e30613 !important; font-size: 19px !important;}",
         ".text-pcard-title {font-weight: bold !important; font-size: 22px !important;}"
@@ -86,6 +156,8 @@
   "order": [
     "breadcrumbs_96z8tE",
     "main-cart",
+    "rich_text_cHKy84",
+    "rich_text_dCKyVj",
     "recently_viewed_products_w4PGc3"
   ]
 }
