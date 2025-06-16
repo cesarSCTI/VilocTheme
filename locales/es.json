@@ -61,7 +61,7 @@
       "close_search": "Cerrar ventana emergente de búsqueda"
     },
     "cart": {
-      "title": "tu carrito",
+      "title": "Tu carrito",
       "view_empty_cart": "Ver carrito",
       "remove": "Eliminar",
       "continue_shopping": "Continuar comprando",
@@ -348,7 +348,7 @@
   },
   "sections": {
     "cart": {
-      "title": "tu carrito",
+      "title": "Tu carrito",
       "remove_title": "Eliminar {{ title }}",
       "estimated_total": "Total estimado",
       "checkout": "Pagar",
