@@ -7268,3 +7268,8 @@ body.search-template #MainContent,
     width: 6rem;
   }
 }
+.texto-rollo {
+  font-size: 0.85rem;
+  color: #555;
+  margin-top: 2px;
+}
