@@ -386,6 +386,9 @@
           <span class="reversed-link__text">{{- product.title -}}</span>
         </a>
       </h3>
+      {% if collection.handle == 'lonas' or collection.handle == 'viniles' %}
+  <p class="texto-rollo">Precio por rollo de 50 m.</p>
+{% endif %}
       {%- if show_price -%}
         {% render 'price', product: product, alignment: settings.pcard_content_alignment %}
       {%- endif -%}
