@@ -115,6 +115,11 @@
         "type": "shopify://apps/chaty-whatsapp-chat-buttons/blocks/chaty/0aaf5812-760f-4dd7-be9b-cca564d8200b",
         "disabled": false,
         "settings": {}
+      },
+      "8970570646067211390": {
+        "type": "shopify://apps/chatway-live-chat-faq-whatsapp/blocks/chatway/b98feb50-a1d2-42c7-be3b-c24d75144246",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
